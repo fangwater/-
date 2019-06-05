@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#5AEDD8,587943,Plug-ins,circle,31,[OOPP] Investigate Cursor Hiding
+#BCC4E3,593857,Plug-ins,circle,21,Flashs buttonMode = true doesnt trigger a pointy cursor; as of 2010-04-06 nightly
+#9F7A98,602018,Plug-ins,circle,25,Mouse pointer not changing to a hand on flash animation
+#642D6F,621117,Plug-ins,circle,21,NSCursor class methods; SetThemeCursor() and SetCursor() not working for OOP plugins on mac
+#6CA7AF,633034,Plug-ins,circle,22,Cursor does not change aspect when moving between cells in Silverlight
+#1A6681,651616,Plug-ins,circle,32,Attempting to hide a mouse cursor via AS in Flash doesnt hide the cursor
+#773F25,125903,Plug-ins,triangle,25,Mozilla crashes on opening idg.net web page
+#F93347,209252,Plug-ins,triangle,18,Java doesnt work even though registered on about plug-ins page
+#A7E22C,597742,Plug-ins,triangle,16,intermittent timeout of modules/plugin/test/crashtests/522512-1.html | timed out waiting for reftest-wait to be removed (after onload fired)
+#279E71,143286,Plug-ins,triangle,16,Crash when Tab w/ Quicktime Switches
+#5B6FCD,556698,Plug-ins,triangle,20,Intermittent failure in test_twostreams.html | [SimpleTest/SimpleTest.js; window.onerror] An error occurred - frameLoaded is not defined
+#3B2A29,94535,Plug-ins,triangle,23,Opening http://hypertext.rmit.edu.au/vog crashes Mozilla.
+#FDB599,64297,Plug-ins,triangle,15,nsIPluginManager not defined in xpidl
+#852CBE,129617,Plug-ins,triangle,21,Print Preview breaks on this URL
+#AA8988,211735,Plug-ins,triangle,22,visiting this eBay URL crashes mozilla dead [@ nsObjectFrame::FixUpURLS ]
+#9DEB2B,883404,Plug-ins,triangle,20,Disable running plugins on the page when user re-blocks them
+#811BC7,311388,Plug-ins,triangle,21,crash [@ nsPluginHostImpl::IsPluginEnabledForExtension]
+#77D45C,137689,Plug-ins,triangle,16,plugin brings up errors: there is no disk in the drive when trying to load plugin
+#7E5B9A,72988,Plug-ins,triangle,16,Flash doesnt work propertly. Mozilla shows only a little peace of animation.
+#44B93A,113264,Plug-ins,triangle,20,npapi.h: NPWindow struct doesnt match old; old SDK; caused NPP_Print to crash
+#4D7FAB,650594,Plug-ins,triangle,25,REFTEST TEST-UNEXPECTED-PASS in modules/plugin/test/reftest/plugin-transform-1.html on Android
+#4CD17B,676406,Plug-ins,diamond,50,REFTEST TEST-UNEXPECTED-PASS in modules/plugin/test/reftest/plugin-transform-1.html on Android

@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#BDD129,30973,Layout,circle,23,Scrollbars on overflow: scroll and overflow: auto always are initially at the top and left
+#1AD6EC,129022,Layout,circle,31,[REL POS] page content moves off left boundary and disappears
+#93D331,138505,Layout,circle,23,[float]Horizontal Scroll Missing On Table Wider than Browser
+#178EC7,172955,Layout,circle,31,scrollbar not created for overflow to left or top
+#5A35D5,185997,Layout: Floats,circle,25,No horizontal scroll bar with float: right
+#62236D,188137,Layout,circle,27,left margins infringes first characters of each line
+#1A683E,205919,Layout,circle,35,horizontal scrollbar does not reveal all characters in document
+#78DB77,209628,Layout: Block and Inline,circle,28,Text goes out of the screen
+#DA955F,209993,Layout: Tables,circle,25,div center combined with div specifying fixed width causes tables to be incorrectly.
+#8A6853,214299,Layout: Block and Inline,circle,32,Cant see text with div margin:0 auto; width:910px in 800x600 resolution
+#8DEE95,218400,Layout,circle,21,<pre> formatting with long lines in tables messes up bottom scrollbar funcioning
+#FCD6E6,248594,Layout,circle,20,does not show the bullets point text completely
+#82878B,340270,Layout,circle,20,Horizontal scrollbar disabled for div within div with differing direction styles
+#22BC95,452407,Layout: Floats,circle,27,Problem with float:right
+#5E67CE,585676,Layout,circle,20,left side of content ends up outside of viewport on zoom
+#96ECE9,517296,General,triangle,21,Flashblock no longer blocking flash objects
+#3A78CF,640629,General,triangle,21,Fix all creations of nsITimer that are locally-scoped and susceptible to GC before firing
+#E7CABF,418521,General,triangle,24,Focus ring appears on mouse interactions (as opposed to only when tabbing through items)
+#E34A37,383831,General,triangle,19,Gecko fails to display content that is attached to a web page with a simple object tag.
+#5D1178,806618,General,triangle,23,rewrite PR_NewLogModule calls to not generate static initializers
+#E924B4,696680,General,triangle,22,Lots of memory used when uploading images and video
+#2A27E2,770109,General,diamond,50,Lots of memory used when uploading images and video

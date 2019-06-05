@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#DE38B3,766592,JavaScript Engine,circle,34,IonMonkey: implement symbolic range analysis
+#3889AA,769518,JavaScript Engine,circle,29,IonMonkey: tryHoistBoundsCheck() should handle JSOP_GE; JSOP_GT.
+#3EE7F3,774922,JavaScript Engine,circle,31,IonMonkey: Unhoisted bounds checks in v8-crypto.
+#C4A14F,368224,JavaScript Engine,triangle,15,Assertion failure: pnprop->pn_type == TOK_COLON or crash [@ CheckDestructuring] with sharp declaration
+#59266D,865259,JavaScript Engine,triangle,16,PJS: numerous jit_test failures on tip
+#A5779A,892787,JavaScript Engine,triangle,15,Differential Testing: Different error message involving Function.prototype
+#8F2385,657225,JavaScript Engine,triangle,18,TI: Crash [@ JSString::length]
+#85A64C,874678,JavaScript Engine,triangle,25,B2G: OOM with Google+ caused by JS parsing
+#2549A7,69345,JavaScript Engine,triangle,21,Browser crashes entering listed URL
+#68F63F,301340,JavaScript Engine,triangle,18,js.obj : error LNK2019: unresolved external symbol _js_GetDependentStringChars referenced in function _Evaluate
+#FB87F1,551754,JavaScript Engine,triangle,21,TM: Clean up some tracer stuff; part 2
+#F3F26D,729364,JavaScript Engine,triangle,25,[IncrementalGC] Crash [@ js::mjit::JITScript::chunkIndex] or Assertion failure: m_value; with verifybarriers
+#EA3235,574834,JavaScript Engine,triangle,21,jsparse deoptimizes |arguments| var-binding too eagerly
+#C8D63A,326005,JavaScript Engine,triangle,20,Crash when embedding Release version (but not Debug version)
+#5B961C,576247,JavaScript Engine,triangle,20,TM: asm_stkarg not implemented for x86 [nanojit]
+#BD1B91,658805,JavaScript Engine,triangle,20,Shell trap() should bounds-check
+#8325F5,560153,JavaScript Engine,triangle,22,Crash [@js_NewRegExpObject] during test_hc_attrnormalize.html
+#C78432,453776,JavaScript Engine,triangle,17,Strange behavior with replace; unshift
+#FED96C,567202,JavaScript Engine,triangle,22,JSRuntime::scriptFilenameTable should use js::HashMap
+#4776E1,764289,JavaScript Engine,triangle,23,Crash with __lookupGetter__; empty proxy
+#AFA51B,418515,JavaScript Engine,triangle,23,Arrays need parents too
+#114192,810802,JavaScript Engine,diamond,50,Arrays need parents too

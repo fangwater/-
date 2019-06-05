@@ -1,0 +1,29 @@
+color,id,label,shape,size,value
+#A82E43,680010,Find Backend,circle,35,home:smsmms:compose sms
+#6CB5A1,682701,Canvas: WebGL,circle,22,YES Thttp://multiplayer.zapak.com/GameWindow.asp?start_scenario=FromTable&origin=FlexGame&user_id=290700432&random_hash=611131320&appVersion=3&ct=app2&channel_id=82&site_id=8&application_path=%2FappGame&view%5Fpassword=p&server%5Furls=java532%2Ecome2play%
+#D88942,686102,General,circle,22,bugs
+#1C13E1,686103,General,circle,22,bugs
+#591C7E,686176,Networking: JAR,circle,32,new bug
+#C25B66,686195,Canvas: 2D,circle,22,A
+#48575C,687238,Canvas: WebGL,circle,29,This is a test bug
+#65883E,687813,General,circle,25,design homepage
+#D2D23C,688444,Canvas: 2D,circle,25,xc vxvxvxv
+#DC8C19,689529,Canvas: WebGL,circle,30,dddddddddddd
+#4B511E,689861,Drag and Drop,circle,23,drag and drop is not happening in my pc
+#AB61B8,695393,General,circle,32,The website in not opening in time
+#C5B318,695396,General,circle,34,The website in not opening in time
+#188BAA,695624,General,circle,20,pop ups
+#38D4C2,695680,General,circle,21,products display page in not working
+#54112F,703793,General,circle,29,test
+#B112C1,706763,Canvas: 2D,circle,33,gchmdghmdghm
+#2C627E,719367,Graphics,circle,24,XYZ
+#1BBA81,719370,ImageLib,circle,33,qwe
+#37B4E4,732464,Printing: Output,circle,33,aaaaaaaaaaaa
+#AE6D4E,739065,DOM: Events,circle,22,Bugzilla Account
+#2BD7DF,740267,DOM,circle,20,122
+#EA9E56,771070,General,circle,30,it doe s not work
+#CEACC3,780091,General,circle,21,link not working
+#B5EC24,782525,Printing: Output,circle,28,print error
+#788B2A,782527,Printing: Output,circle,28,error on printing
+#8E833B,782529,Printing: Output,circle,22,error on printing
+#8CE5D9,782532,Printing: Output,diamond,50,error on printing

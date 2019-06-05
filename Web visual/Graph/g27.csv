@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#ABA4BE,899337,DOM,circle,35,Intermittent dom/tests/mochitest/dom-level2-html/test_HTMLElement29.html | Test timed out.
+#567B12,908271,DOM,circle,24,Intermittent dom-level1-core/test_hc_attrappendchild2.html | Test timed out.
+#E3C3D5,919088,DOM,circle,33,Intermittent TEST-UNEXPECTED-FAIL | dom-level1-core/test_hc_attrname.html | Test timed out.
+#A6BC3D,919354,DOM,circle,26,Intermittent dom-level2-core/test_setAttributeNS09.html | application timed out after 330 seconds with no output
+#7C88EA,920521,DOM,circle,23,Intermittent TEST-UNEXPECTED-FAIL | /tests/dom/tests/mochitest/dom-level2-html/test_HTMLElement96.html
+#8C2F89,920894,DOM: Core & HTML,circle,28,Intermittent dom-level2-core/test_hasAttribute01.html | Test timed out
+#CD4426,924352,DOM,circle,23,Intermittent TEST-UNEXPECTED-FAIL | /tests/dom/tests/mochitest/dom-level1-core/test_hc_nodeinsertbeforenodename.html | Test timed out.
+#5CECC1,925714,DOM,circle,27,Intermittent TEST-UNEXPECTED-FAIL | /tests/dom/tests/mochitest/dom-level1-core/test_hc_nodehaschildnodesfalse.html | Test timed out.
+#9164F7,699550,DOM,triangle,17,Intermittent TEST-UNEXPECTED-FAIL | /tests/dom/tests/mochitest/bugs/test_bug291653.html | application timed out after 330 seconds with no output
+#48B867,533056,DOM,triangle,20,Elements inside <noscript> block arent added to DOM tree
+#4F17D6,351586,DOM,triangle,23,[FIX]nsAttributeTextNode should use nsIMutationObserver; not DOM events
+#4CF691,776239,DOM,triangle,15,Unpref XHR bindings
+#B41228,905392,DOM,triangle,21,Need way to throw web-console-visible exception-message from JS-implemented webidl object
+#79A25F,880668,DOM,triangle,20,Intermittent dom/tests/mochitest/dom-level2-core/test_nodehasattributes04.html | Exited with code -20 during test run
+#9433C8,749448,DOM,triangle,21,Remove XTF
+#5DF2CE,371743,DOM,triangle,19,[FIX]Script with src attribute causes xbl binding not to get applied in this case
+#8F53DD,563659,DOM,triangle,21,Make nsDocumentFragment not inherit from nsGenericElement
+#3EEFA1,842376,DOM,triangle,19,Update HTMLImageElements named constructor to use optional arguments
+#C2B635,683316,DOM,triangle,16,DOMStorageImpl::GetKey performance regression
+#C4192E,914260,DOM,triangle,19,Add review requirement to the error message in test_interfaces
+#CF5FB4,884754,DOM,triangle,18,Promise.fulfill()
+#FBAEC1,925715,DOM,diamond,50,Promise.fulfill()

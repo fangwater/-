@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#8BA553,899611,JavaScript Engine,circle,21,Intermittent TEST-UNEXPECTED-FAIL | jit-test\tests\jaeger\bug583158.js | --no-baseline --no-ion: jit-test\tests\jaeger\bug583158.js:6:0 ReferenceError: a is not defined
+#CC4B54,899697,JavaScript Engine,circle,29,Intermittent TEST-UNEXPECTED-FAIL | jit-test\tests\auto-regress\bug704136.js | --ion-eager: jit-test\tests\auto-regress\bug704136.js:8:0 ReferenceError: jsTestDriverEnd is not defined
+#89CCF7,913335,JavaScript Engine,circle,32,Intermittent bug605013.js | --no-baseline --no-ion: e:\builds\moz2_slave\m-cen-w32-d-000000000000000000\build\js\src\jit-test\tests\auto-regress\bug605013.js:7:0 ReferenceError: AttributeName is not defined
+#FC5385,913859,JavaScript Engine,circle,24,Intermittent flatten-throws.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\m-cen-w32-d-000000000000000000\build\js\src\jit-test\tests\parallel\flatten-throws.js:6:0 Error: cannot flatten 1-dimensional ParallelArray object
+#A25DFA,913861,JavaScript Engine,circle,33,Intermittent bug650617.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\fx-team-w32-pgo-00000000000000\build\js\src\jit-test\tests\auto-regress\bug650617.js:6:0 ReferenceError: split is not defined
+#8FF7AC,913862,JavaScript Engine,circle,26,Intermittent testBadLetBodyWithArguments.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\fx-team-w32-d-0000000000000000\build\js\src\jit-test\tests\basic\testBadLetBodyWithArguments.js:5:19 ...................^
+#6AF167,913979,JavaScript Engine,circle,25,Intermittent bug605015.js | : e:\builds\moz2_slave\m-in-w32-000000000000000000000\build\js\src\jit-test\tests\basic\bug605015.js:9:0 TypeError: print(...) is not a function
+#89BD42,492857,JavaScript Engine,triangle,16,Suspend API for XPCJSRuntime::WatchdogMain
+#D96AF9,421738,JavaScript Engine,triangle,19,Spidermonkey fails to build with GCC 4.2 (jslock.cpp uses memset() without including string.h)
+#7B7EFD,818231,JavaScript Engine,triangle,16,BaselineCompiler: Fix masking of ion compiler by baseline compiler.
+#89E5F8,353081,JavaScript Engine,triangle,23,Incorrect error message involving new and map in case expression
+#524534,775915,JavaScript Engine,triangle,17,Fix eval cache performance regression
+#EC7538,717863,JavaScript Engine,triangle,25,default pagesize is 8192 on Solaris/SPARC
+#16199C,909672,JavaScript Engine,triangle,23,Make cross-compartment cloning possible with JS_StructuredClone
+#AD2A2E,752081,JavaScript Engine,triangle,24,Assertion failure: invalid trace kind with incremental GC and multiple browser windows
+#DE75B3,749124,JavaScript Engine,triangle,17,XMLHttpRequest is not defined
+#18315F,538314,JavaScript Engine,triangle,23,TM: Add dmandelins ad hoc closure tests to trace-test suite
+#A54662,484362,JavaScript Engine,triangle,16,typeof /regexp/ returns object
+#6D33B6,547912,JavaScript Engine,triangle,20,Assertion failure: HAS_FUNCTION_CLASS(JSVAL_TO_OBJECT(setterVal)); at ../jsscope.h
+#1196E6,506699,JavaScript Engine,triangle,15,js_printf doesnt always use va_end after va_start
+#BF85C1,456810,JavaScript Engine,triangle,18,TM: Crash on digg.com with adblock plus [@ ReconstructPCStack]
+#FFA2AA,915504,JavaScript Engine,diamond,50,TM: Crash on digg.com with adblock plus [@ ReconstructPCStack]

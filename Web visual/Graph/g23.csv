@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#5E3592,64545,Security: UI,circle,31,no way to cancel going to an insecure site
+#EF67D2,92689,Security,circle,29,Warning when going from secure to insecure MUST have cancel
+#DB91CC,92715,Security,circle,21,when going from a https: to http: site theres no option to cancel the connection
+#C193BF,133455,Document Navigation,circle,31,https->http: password dlg before security warning.
+#DD15FD,134711,Security: UI,circle,28,warning about leaving secure site has no Cancel button
+#BA4511,138863,Security,circle,20,entering/leaving secure website warning should be shown and acknowledged before any packet transfer is permitted by browser
+#F43149,277806,Security: UI,circle,32,nsSecureBrowserUIImpl doesnt check return values from nsISecurityWarningDialogs
+#88D82A,711141,Security,circle,32,Implement a preference for blocking mixed active content (scripts; plugins; stylesheets)
+#D3E4F6,13290,Security,triangle,15,MLK: nsScriptSecurityManager?
+#BEC712,27012,Security,triangle,19,Need UI for setting site-specific policies
+#D6B13E,882060,Security,triangle,15,A policy of like script-src self unsafe-inline; allows eval but should not
+#A85E5D,589041,Security,triangle,25,Java security bypass from LiveConnect loaded via META Refresh data: URL
+#FFEA19,228655,Security,triangle,25,Comprehensive P3P agent for Mozilla / Firefox by incorporating Privacy Bird?
+#CB82F3,210240,Security,triangle,15,alert() in onblur triggers onblur with XULDocument target
+#E6A4DD,115242,Security,triangle,20,getting security manager block message in console; even when its not used
+#EC9C26,284384,Security,triangle,18,[security] Site starts up IE and installs spyware
+#ABB98B,13898,Security,triangle,22,[Feature] Review data: protocol for security
+#335A13,140478,Security,triangle,20,Security info indicates page is secure
+#4FB1A4,231709,Security,triangle,21,iframes pointing to signed XUL crashes browser
+#3CFA2E,110659,Security,triangle,22,Page rendered empty; source: <html><body></body></html>
+#45F5B9,185844,Security,triangle,25,Mozilla crashed during Quit operation [@ nssTrustDomain_LockCertCache]
+#A1C5A2,711145,Security,diamond,50,Mozilla crashed during Quit operation [@ nssTrustDomain_LockCertCache]

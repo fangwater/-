@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#688DC2,673778,DOM: Core & HTML,circle,21,efgrehtgfjht
+#876FFB,680010,Find Backend,circle,28,home:smsmms:compose sms
+#646861,682690,Build Config,circle,31,h
+#B67A3C,682700,Drag and Drop,circle,32,he is acting like mad
+#5C56AF,686103,General,circle,20,bugs
+#DF493A,686176,Networking: JAR,circle,20,new bug
+#561C59,686195,Canvas: 2D,circle,35,A
+#F3AE73,688444,Canvas: 2D,circle,27,xc vxvxvxv
+#AA3DE7,689529,Canvas: WebGL,circle,22,dddddddddddd
+#8E5BA7,689861,Drag and Drop,circle,30,drag and drop is not happening in my pc
+#2C9BD7,695396,General,circle,35,The website in not opening in time
+#5B845E,695624,General,circle,29,pop ups
+#C9AEFB,695680,General,circle,20,products display page in not working
+#A939FF,852220,General,triangle,21,nsIConsoleService does not work properly
+#EFA27A,559629,General,triangle,24,&isin interpreted w/o ;
+#4CA38C,691336,General,triangle,20,Firefox/Thunderbird need option not to update themselves OR extensions until everything is compatible
+#975DA2,442015,General,triangle,22,Permission denied to get property Location.href when accessing parent.location
+#211CC8,586740,General,triangle,19,Microformats test leak fix
+#BBE21F,797419,General,triangle,24,Fix strict mode warnings in controller.js
+#D42134,863813,General,triangle,17,content/media/webspeech/test/head.js: Unexpected events cause tests to be run in parallel
+#1FFA87,393206,General,triangle,20,JSON tests failing
+#6568C5,703793,General,diamond,50,JSON tests failing

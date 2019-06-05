@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#DD9ED3,673778,DOM: Core & HTML,circle,20,efgrehtgfjht
+#CF4594,680010,Find Backend,circle,25,home:smsmms:compose sms
+#728B21,682690,Build Config,circle,25,h
+#C11567,682700,Drag and Drop,circle,32,he is acting like mad
+#7331C5,682701,Canvas: WebGL,circle,30,YES Thttp://multiplayer.zapak.com/GameWindow.asp?start_scenario=FromTable&origin=FlexGame&user_id=290700432&random_hash=611131320&appVersion=3&ct=app2&channel_id=82&site_id=8&application_path=%2FappGame&view%5Fpassword=p&server%5Furls=java532%2Ecome2play%
+#6E869B,686103,General,circle,33,bugs
+#E75E7C,686176,Networking: JAR,circle,21,new bug
+#EF5B14,686195,Canvas: 2D,circle,24,A
+#96DE2D,687238,Canvas: WebGL,circle,30,This is a test bug
+#42E5E3,687813,General,circle,23,design homepage
+#388AE4,688444,Canvas: 2D,circle,31,xc vxvxvxv
+#7D297A,689529,Canvas: WebGL,circle,29,dddddddddddd
+#F7126B,689861,Drag and Drop,circle,27,drag and drop is not happening in my pc
+#6228B9,695396,General,circle,26,The website in not opening in time
+#245FBF,695624,General,circle,20,pop ups
+#17CCCB,695680,General,circle,33,products display page in not working
+#52CE33,360293,Canvas: 2D,triangle,20,passing in non-numeric values to canvas functions causes crash inside cairo
+#212B56,953167,Canvas: 2D,triangle,20,bug
+#85A143,632511,Canvas: 2D,triangle,24,Handle non-finite values for scale per spec
+#F4FCDA,512217,Canvas: 2D,triangle,22,canvas arcTo() implementation is incorrect
+#1EAC5D,753758,Canvas: 2D,triangle,24,Saving a canvas state doesnt carry mozFillRule
+#4816FF,706763,Canvas: 2D,diamond,50,Saving a canvas state doesnt carry mozFillRule

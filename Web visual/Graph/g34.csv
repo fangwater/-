@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#49A5E6,667144,SVG,circle,25,Intermittent REFTEST TEST-UNEXPECTED-FAIL | http://10.250.48.152:30035/tests/layout/reftests/svg/sizing/standalone-sanity-height-pct.svg | load failed: null
+#52E171,691082,SVG,circle,29,Intermittent reftests/svg/tspan-xy-04.svg | load failed: null and/or reftests/svg/tspan-xy-05.svg | load failed: null
+#2D8D4C,698210,Layout,circle,30,Intermittent Android layout/generic/crashtests/422301-1.html | load failed: null
+#E39E3F,701923,Layout,circle,34,Intermittent Android REFTEST TEST-UNEXPECTED-FAIL | layout/reftests/transform/matrix-7-ref.html | load failed: null
+#4868DA,720749,Layout,circle,21,Intermittent Android layout/xul/base/src/crashtests/289410-1.xul | load failed: null
+#FA339E,732273,ImageLib,circle,29,Intermittent Android REFTEST TEST-UNEXPECTED-FAIL | image/test/reftest/pngsuite-oddsizes/s09i3p02.png | load failed: null
+#6BB781,765785,Layout: Block and Inline,circle,26,Intermittent margin-collapsing/block-float-2b.html | load failed: null
+#75DADD,786624,Layout,circle,28,Intermittent layout/reftests/ib-split/remove-from-split-inline-1.html | load failed: null
+#35C684,787909,Layout: View Rendering,circle,23,Intermittent Android css-gradients/height-dependence-1-ref.html | load failed: null
+#F6214E,788698,MathML,circle,29,Intermittent Android REFTEST TEST-UNEXPECTED-FAIL | layout/reftests/mathml/munderover-align-accent-false.html | load failed: null
+#BD6E7F,265979,Layout: Text,triangle,18,In-line style spec for link colors is not handled properly.
+#64FF2C,274958,Layout: Text,triangle,19,dont return NS_ERROR_FAILURE when INITIAL-IZATION fails
+#78C9D2,185569,Layout: Text,triangle,24,use of  text-transform:uppercase at words containing a &szlig; character will remove last character of the word.
+#7867DD,133260,Layout: Text,triangle,23,div align=justify and MS Sans Serif at all
+#F8F72D,746421,Layout: Text,triangle,23,nsTextBoxFrame doesnt include glyph overflow in its overflow rects
+#577E48,200147,Layout: Text,triangle,16,Chess figurine truetype font is not rendered.
+#26D439,312436,Layout: Text,triangle,19,Arabic characters with accelerators arent shaped
+#D3BA39,837057,Layout: Text,triangle,25,Segoe UI Light font lookup fails on Windows; despite fonts existence
+#8D224B,815500,Layout: Text,triangle,19,Heap-use-after-free in mozilla::RecomputeDirectionality
+#55DC8C,111087,Layout: Text,triangle,17,Right to left table printing
+#1D3B1F,328168,Layout: Text,triangle,20,Horizontal paddings; borders and margins on multi-frame bidi inlines appear in the wrong places
+#C4FD47,788993,Layout: Text,diamond,50,Horizontal paddings; borders and margins on multi-frame bidi inlines appear in the wrong places

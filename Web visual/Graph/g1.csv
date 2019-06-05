@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#2CB6FC,696804,Widget: Android,circle,20,Crash @ nsWindow::OnDraw
+#7AC3A7,704785,Widget: Android,circle,33,Crash in nsWindow::OnDraw @ mozilla::AndroidBridge::AutoLocalJNIFrame::~AutoLocalJNIFrame
+#ED459F,566987,Video/Audio,triangle,17,Prince of Persia Film Trailer shows artifacts when playing it back with video tag and webm!
+#CF4FA7,647732,Video/Audio,triangle,15,mozSetup fails after allocating a certain number of Audio objects
+#E5CB25,709558,Video/Audio,triangle,20,Intermittent test_bug493187.html | application timed out after 330 seconds with no output
+#E7C348,756372,Video/Audio,triangle,24,Change |seeking| to prevent seeking in WebM livestream.
+#EFA493,938686,Video/Audio,triangle,21,Support Opus in WebM
+#66C47B,708431,Video/Audio,triangle,23,Video controls fail to initialize if an extension implementing nsIContentPolicy is present (e.g. Adblock Plus; NoScript; GreaseMonkey)
+#F45DA4,655648,Video/Audio,triangle,20,Intermittent test_play_twice.html | Expect at least one playing event
+#A73EB8,693905,Video/Audio,triangle,25,Android audio has numerous issues
+#35F5D3,888802,Video/Audio,triangle,20,Whitelist Sony Gingerbread devices for stagefright OMX decoding
+#6F3144,933198,Video/Audio,triangle,15,gum_test.html doesnt provide audio on Windows nightly builds
+#8F113C,711584,Video/Audio,triangle,21,Win build broken when using disable-webm
+#F2C8D1,908894,Video/Audio,triangle,25,vube.com video fails to play
+#5699E1,474754,Video/Audio,triangle,22,Sporadic mochitest failure: test_wav_trunc.html | Checking currentTime at end: 1.5
+#9BC473,882817,Video/Audio,triangle,24,[webvtt] Fix assertion errors on debug builds for the new tests
+#673BBA,861601,Video/Audio,triangle,25,Suppress gcc -Wmultichar warnings from Androids Stagefright header files
+#31B73F,876574,Video/Audio,triangle,20,Construct fixed pipeline in gstreamer backend
+#357876,939582,Video/Audio,triangle,18,Build content/media in unified mode
+#C8CAA7,686424,Video/Audio,triangle,20,Intermittent test_reactivate.html | application timed out after 330 seconds with no output
+#A2CB86,504644,Video/Audio,triangle,18,crash (segfault) [@ _vorbis_unpack_comment] when playing corrupted ogg vorbis/theora file
+#EF2176,717096,Video/Audio,diamond,50,crash (segfault) [@ _vorbis_unpack_comment] when playing corrupted ogg vorbis/theora file

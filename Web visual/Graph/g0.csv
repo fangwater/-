@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#A1CA5F,612194,Canvas: WebGL,circle,33,WebGL crash [@mozilla::gl::GLContext::fGenerateMipmap]
+#E135E4,667310,Canvas: WebGL,circle,27,WebGL crash on Musical Solar System demo
+#D25598,747825,Canvas: WebGL,triangle,22,Make WebGLContext an nsWrapperCache
+#14B78B,762259,Canvas: WebGL,triangle,16,Drop vendor suffixes from EGLImage for internal uses.
+#584582,672761,Canvas: WebGL,triangle,16,WebGL code compilation causes memory corruption
+#AC3178,571027,Canvas: WebGL,triangle,17,implement new TexImage2D pixel store params and signature
+#ABBA5D,578938,Canvas: WebGL,triangle,22,Shared; non-libxul builds failing due to ANGLE changes
+#1C6274,723072,Canvas: WebGL,triangle,16,[WebGL][OGL] Invalid FBO+RBO management in legacy ResizeOffscreenFBO
+#EBBFB3,542395,Canvas: WebGL,triangle,20,really enable typed array tracing; and support JSOP_LENGTH
+#2C9D6B,703567,Canvas: WebGL,triangle,21,WebGL crash on ASUS tablet with Flight of the Navigator demo
+#CC34F8,693497,Canvas: WebGL,triangle,22,Intermittent crash [@ mozilla::WebGLContext::CopyTexImage2D] during test_webgl_conformance_test_suite.html
+#AE6ED4,881642,Canvas: WebGL,triangle,24,Intermittent test_webgl_conformance_test_suite.html | application crashed [@ libc.so + 0xd444]
+#3E2D43,912255,Canvas: WebGL,triangle,18,Ghost window on http://n-e-r-v-o-u-s.com/cellCycle/
+#835D3B,525984,Canvas: WebGL,triangle,16,Copy to uninitialized pointer in nsGLPbufferCGL::ThebesSurface
+#A5EABD,583375,Canvas: WebGL,triangle,18,upgrade ANGLE to r367
+#F36E1C,590729,Canvas: WebGL,triangle,25,Update WebGL tests to upstream r12308; and Mochitest improvements
+#75EC97,578769,Canvas: WebGL,triangle,19,handling of count==0 in drawArrays and drawElements
+#8F386B,576086,Canvas: WebGL,triangle,19,Remove sizeInBytes from WebGL
+#7EBD1B,661399,Canvas: WebGL,triangle,25,Impossible to get webgl active in firefox 4 nvidia gtx570 and latest (270.61) Nvidia drivers
+#756654,576362,Canvas: WebGL,triangle,20,WebGLContext::DrawElements compares WebGLsizei count < 0
+#F13C2F,698856,Canvas: WebGL,triangle,25,Upgrade WebGL conformance test suite to r15981
+#6559F3,738126,Canvas: WebGL,diamond,50,Upgrade WebGL conformance test suite to r15981

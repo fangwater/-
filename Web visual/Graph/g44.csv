@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#415CA6,899611,JavaScript Engine,circle,22,Intermittent TEST-UNEXPECTED-FAIL | jit-test\tests\jaeger\bug583158.js | --no-baseline --no-ion: jit-test\tests\jaeger\bug583158.js:6:0 ReferenceError: a is not defined
+#B3867E,899697,JavaScript Engine,circle,23,Intermittent TEST-UNEXPECTED-FAIL | jit-test\tests\auto-regress\bug704136.js | --ion-eager: jit-test\tests\auto-regress\bug704136.js:8:0 ReferenceError: jsTestDriverEnd is not defined
+#94F1D8,913859,JavaScript Engine,circle,31,Intermittent flatten-throws.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\m-cen-w32-d-000000000000000000\build\js\src\jit-test\tests\parallel\flatten-throws.js:6:0 Error: cannot flatten 1-dimensional ParallelArray object
+#D7C66B,913861,JavaScript Engine,circle,21,Intermittent bug650617.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\fx-team-w32-pgo-00000000000000\build\js\src\jit-test\tests\auto-regress\bug650617.js:6:0 ReferenceError: split is not defined
+#A16DC1,913862,JavaScript Engine,circle,27,Intermittent testBadLetBodyWithArguments.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\fx-team-w32-d-0000000000000000\build\js\src\jit-test\tests\basic\testBadLetBodyWithArguments.js:5:19 ...................^
+#C3261B,913979,JavaScript Engine,circle,32,Intermittent bug605015.js | : e:\builds\moz2_slave\m-in-w32-000000000000000000000\build\js\src\jit-test\tests\basic\bug605015.js:9:0 TypeError: print(...) is not a function
+#1798D5,916238,JavaScript Engine,circle,32,Intermittent modWithConstLhs.js | --ion-eager --ion-check-range-analysis: \js\src\jit-test\tests\jaeger\modWithConstLhs.js:2:0 ReferenceError: s is not defined
+#31BFF4,916240,JavaScript Engine,circle,25,Intermittent testBug773108.js | --no-baseline --no-ion --no-ti: testBug773108.js:3:394 ............................................................^
+#9ACFA7,916244,JavaScript Engine,circle,35,Intermittent js\src\jit-test\tests\ion\bug692208.js | --ion-eager: js\src\jit-test\tests\ion\bug692208.js:7:4 ReferenceError: result is not defined
+#B1E792,916247,JavaScript Engine,circle,35,Intermittent bug635389.js | --ion-eager: js\src\jit-test\tests\auto-regress\bug635389.js:8:0 InternalError: too much recursion
+#A6CDE5,916352,JavaScript Engine,circle,33,Intermittent js\src\jit-test\tests\debug\Frame-onPop-error-return.js | --ion-eager --ion-check-range-analysis: uncaught exception: TestComplete
+#1CD2D5,777618,JavaScript Engine,triangle,22,Kill VALUE_TO_BOOLEAN in interpreter
+#28A573,899697,JavaScript Engine,triangle,18,Intermittent TEST-UNEXPECTED-FAIL | jit-test\tests\auto-regress\bug704136.js | --ion-eager: jit-test\tests\auto-regress\bug704136.js:8:0 ReferenceError: jsTestDriverEnd is not defined
+#C78258,636224,JavaScript Engine,triangle,25,rm cx->interpLevel
+#67AC6F,483270,JavaScript Engine,triangle,24,RadControls Rich Text Editor replaces certain characters with tilde
+#E15FD9,484614,JavaScript Engine,triangle,24,peacekeeper arrayWeighted test performance
+#4B1B8D,33947,JavaScript Engine,triangle,20,[CRASH] Mozilla crashes on starting a download.
+#957DE9,894149,JavaScript Engine,triangle,21,The set of closed over variables is not optimized hard enough when references are made to properties the global object
+#518FE2,355980,JavaScript Engine,triangle,18,Round-trip change with if(1) { function declaration }
+#A83DD1,875290,JavaScript Engine,triangle,24,rm TypeScript::LocalTypes
+#F8C5B8,451787,JavaScript Engine,triangle,23,TM: Trace unary not for numbers and strings
+#CEEB8B,916357,JavaScript Engine,diamond,50,TM: Trace unary not for numbers and strings

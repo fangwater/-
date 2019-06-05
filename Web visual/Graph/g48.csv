@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#9544B8,878611,JavaScript Engine,circle,25,Intermittent bug744356.js | --baseline-eager: e:\builds\moz2_slave\m-in-w32-000000000000000000000\build\js\src\jit-test\tests\basic\bug744356.js:13:3 ReferenceError: SECTION is not defined
+#DA2554,886171,JavaScript Engine,circle,34,Intermittent jit-test\tests\auto-regress\bug710192.js | --ion-eager: bug710192.js:10:0 Error: Assertion failed: got (void 0); expected 1234
+#F96224,887559,JavaScript Engine,circle,29,Intermittent auto-regress\bug665914.js | --ion-eager TypeError: anonymous method called on incompatible ArrayBufferPrototype
+#ABB916,899697,JavaScript Engine,circle,20,Intermittent TEST-UNEXPECTED-FAIL | jit-test\tests\auto-regress\bug704136.js | --ion-eager: jit-test\tests\auto-regress\bug704136.js:8:0 ReferenceError: jsTestDriverEnd is not defined
+#F4C9A2,913334,JavaScript Engine,circle,31,Intermittent jit-test\tests\auto-regress\bug654392.js | --baseline-eager: e:\builds\moz2_slave\m-in-w32-d-0000000000000000000\build\js\src\jit-test\tests\auto-regress\bug654392.js:11:0 InternalError: too much recursion
+#588B96,913859,JavaScript Engine,circle,34,Intermittent flatten-throws.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\m-cen-w32-d-000000000000000000\build\js\src\jit-test\tests\parallel\flatten-throws.js:6:0 Error: cannot flatten 1-dimensional ParallelArray object
+#D7432A,913862,JavaScript Engine,circle,33,Intermittent testBadLetBodyWithArguments.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\fx-team-w32-d-0000000000000000\build\js\src\jit-test\tests\basic\testBadLetBodyWithArguments.js:5:19 ...................^
+#9B39DC,913979,JavaScript Engine,circle,25,Intermittent bug605015.js | : e:\builds\moz2_slave\m-in-w32-000000000000000000000\build\js\src\jit-test\tests\basic\bug605015.js:9:0 TypeError: print(...) is not a function
+#A895C7,915504,JavaScript Engine,circle,28,Intermittent Frame-onPop-throw-throw.js | --ion-eager --ion-check-range-analysis: uncaught exception: TestComplete
+#A892FC,916238,JavaScript Engine,circle,20,Intermittent modWithConstLhs.js | --ion-eager --ion-check-range-analysis: \js\src\jit-test\tests\jaeger\modWithConstLhs.js:2:0 ReferenceError: s is not defined
+#FF16E6,916240,JavaScript Engine,circle,20,Intermittent testBug773108.js | --no-baseline --no-ion --no-ti: testBug773108.js:3:394 ............................................................^
+#B7438D,916242,JavaScript Engine,circle,30,Intermittent bug555155.js | --baseline-eager --no-ti --no-fpu: uncaught exception: undefined
+#858621,916244,JavaScript Engine,circle,22,Intermittent js\src\jit-test\tests\ion\bug692208.js | --ion-eager: js\src\jit-test\tests\ion\bug692208.js:7:4 ReferenceError: result is not defined
+#DC26BD,916246,JavaScript Engine,circle,25,Intermittent js\src\jit-test\tests\auto-regress\bug727330.js | --ion-eager: js\src\jit-test\tests\auto-regress\bug727330.js:9:0 TypeError: cant change objects extensibility
+#3D5D5E,916248,JavaScript Engine,circle,28,Intermittent js\src\jit-test\tests\auto-regress\bug650658.js | --no-baseline --no-ion --no-ti: js\src\jit-test\tests\auto-regress\bug650658.js:9:9 TypeError: matches_array is null
+#417253,916357,JavaScript Engine,circle,22,Intermittent js\src\jit-test\tests\basic\testProxyConstructors.js | : uncaught exception: ExitCleanly
+#D459D4,916398,JavaScript Engine,circle,33,Intermittent js\src\jit-test\tests\gc\bug-880886.js | : js\src\jit-test\tests\gc\bug-880886.js:7:0 InternalError: too much recursion
+#15BD69,916649,JavaScript Engine,circle,30,Intermittent js\src\jit-test\tests\ion\bug724788.js | --ion-eager: js\src\jit-test\tests\ion\bug724788.js:12:6 ReferenceError: o26 is not defined
+#D8EE44,544911,JavaScript Engine,triangle,23,Crash in dom/tests/mochitest/dom-level2-html/test_HTMLTableRowElement10.html [@ JS_CallTracer] | js_TraceContext | 0x0
+#4CDFA2,81619,JavaScript Engine,triangle,21,option to disable window.open
+#F8495E,582894,JavaScript Engine,triangle,21,JM: Assertion failure: INT_FITS_IN_JSID(i);
+#476236,917603,JavaScript Engine,diamond,50,JM: Assertion failure: INT_FITS_IN_JSID(i);

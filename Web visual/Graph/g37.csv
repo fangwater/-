@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#D5AA59,673778,DOM: Core & HTML,circle,23,efgrehtgfjht
+#5B7DDC,680010,Find Backend,circle,23,home:smsmms:compose sms
+#426F62,682690,Build Config,circle,26,h
+#B8F833,682700,Drag and Drop,circle,27,he is acting like mad
+#2A4BB1,686103,General,circle,25,bugs
+#431732,686176,Networking: JAR,circle,34,new bug
+#CC1C37,686195,Canvas: 2D,circle,29,A
+#C91324,687238,Canvas: WebGL,circle,27,This is a test bug
+#4697F3,687813,General,circle,24,design homepage
+#33E4D4,689529,Canvas: WebGL,circle,23,dddddddddddd
+#EEFD7B,689861,Drag and Drop,circle,34,drag and drop is not happening in my pc
+#6A2ED5,695396,General,circle,23,The website in not opening in time
+#ED3BE5,371435,General,triangle,17,unable to display flight information page
+#83EFDF,943747,General,triangle,24,Add a .reviewboardrc file to mozilla-central
+#532BD3,768407,General,triangle,21,Copperplate Gothic font not working in some(older) versions of Firefox
+#6168E7,411684,General,triangle,19,Firefox leaks with nsGlobalWindows when opening the Map+ Prefs
+#164E93,945168,General,triangle,18,was not logging into the gmail account
+#7294E7,570016,General,triangle,19,Unexpected crash while exiting
+#8EE9E9,896180,General,triangle,22,smooth scrolling svg image filled holed path leads to hang
+#DEE863,934311,General,triangle,18,Javascript modules dont share definition of Array (and probably all other standard classes like String etc.)
+#FE66A5,818685,General,triangle,25,Cant build under MS VC9 with bug 817574
+#CBDD16,695680,General,diamond,50,Cant build under MS VC9 with bug 817574

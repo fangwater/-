@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#B4389E,691082,SVG,circle,23,Intermittent reftests/svg/tspan-xy-04.svg | load failed: null and/or reftests/svg/tspan-xy-05.svg | load failed: null
+#DC7C88,693836,Layout,circle,30,Intermittent Android REFTEST TEST-UNEXPECTED-FAIL | layout/reftests/transform/matrix-2a.html and matrix-3a.html | load failed: null
+#8A8B43,698210,Layout,circle,26,Intermittent Android layout/generic/crashtests/422301-1.html | load failed: null
+#C497B9,699110,Layout,circle,22,Intermittent Android REFTEST TEST-UNEXPECTED-FAIL layout/reftests/pixel-rounding/border-width-6.html and border-left-10-ref.html| load failed: null
+#82E2A6,372072,Layout,triangle,17,Broken reftests on Mac involving text
+#61B9C4,203123,Layout,triangle,20,webbot include shtml frame layout skewed
+#D53CCF,2304,Layout,triangle,17,Graphics in right most col. do not disply until minimized then maximized.
+#E45B72,457213,Layout,triangle,25,Crash [@ nsCSSFrameConstructor::ConstructXULFrame] with setting display: table on root and showPopup
+#1A36CB,26769,Layout,triangle,17,Javascript menu at cadillac repositions on mouseOver
+#7FFED1,188612,Layout,triangle,20,Valid HTML 3.2 documents parsed as quirks
+#411E3D,22369,Layout,triangle,17,Page display vanishes when scrolled.
+#46C2BF,103913,Layout,triangle,16,font switches between SansSerif & TimesRoman styles when reloading the page after editing the file on the server
+#F52634,313410,Layout,triangle,24,Firefox does not render correctly the CSS in spreadfirefox.com gallery ; but IE does.
+#95CEE7,773500,Layout,triangle,24,nsStyleAnimation checks for common units of nsCSSValueTriplet are screwy
+#4DE385,1713,Layout,triangle,17,hrs dont float correctly.
+#8A5B79,364867,Layout,triangle,15,WARNING: Textframe maps no content on many websites
+#35A74F,134580,Layout,triangle,16,vspace default (images separated by whitespace lack vertical gaps)
+#7A6BC5,159400,Layout,triangle,21,CSS problems - Spec violation
+#5C7CB4,211599,Layout,triangle,21,Cant open link with javascript and linefeed in the href
+#CC4EF8,93377,Layout,triangle,22,lots of input fields cause table to explode
+#2B678F,51961,Layout,triangle,20,fixed size <hr> spilling out of table cell
+#2B8D25,701923,Layout,diamond,50,fixed size <hr> spilling out of table cell

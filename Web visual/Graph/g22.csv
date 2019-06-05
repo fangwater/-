@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#168F32,254767,DOM: Core & HTML,circle,27,link is not parsed as it should when there are many on one page
+#67B2AC,278348,Layout,circle,24,wrong layout with huge form controls and tables
+#EEF8C8,287629,Layout,circle,33,ie vs firefox difference with a particular table
+#C14C33,302319,Layout: Tables,circle,23,Table rendering confused after many tables in a big file
+#9F9BDA,303373,HTML: Parser,circle,28,This page looks wrong in Mozilla Browsers (Mozilla Suite & Firefox). This php page have too many tables. http://www.sedice.com looks perfectly
+#9162EF,377056,HTML: Parser,circle,33,very deeply nested <font> tags are ignored
+#33E8F8,380822,Layout,circle,25,Text not rendered on provided example
+#323715,529585,Layout: Tables,circle,30,Content is invisible on 195 nested element in table cell
+#9352F6,68821,Layout: View Rendering,triangle,22,[Patch] Major performance problem rendering some w3.org pages
+#7AA3D4,277234,Layout: View Rendering,triangle,18,[FIXr]crash [@ nsSynthMouseMoveEvent::HandleEvent]
+#6A2952,241796,Layout: View Rendering,triangle,15,Painting large tables requires linear walk over all rows (slow table scrolling)
+#CCCEDB,237314,Layout: View Rendering,triangle,20,moving text lines arent displayed correctly/truncated
+#D85797,203482,Layout: View Rendering,triangle,18,X leaks memory when scrolling a page using -moz-opacity
+#FEC33F,81913,Layout: View Rendering,triangle,19,view frame source initiates new request
+#DC5831,436320,Layout: View Rendering,triangle,20,Full TRUE zoom mode required for fast canvas-based zoom implementation
+#43F8C8,537530,Layout: View Rendering,triangle,25,Content area invalidation/redraw broken (not only) with FireGestures
+#FFE438,279486,Layout: View Rendering,triangle,21,links leave trails when hovered and then unhovered
+#B1623A,196532,Layout: View Rendering,triangle,15,Windows flickers when rendered
+#542F48,209071,Layout: View Rendering,triangle,17,incorrect spacing with xml in mozilla; but in opera and internet explorer it looks fine
+#EB3FA6,128201,Layout: View Rendering,triangle,25,Warnings from nsScrollPortView
+#1C17C4,331809,Layout: View Rendering,triangle,15,Xul wizard page bleeds out of iframe
+#BFF972,911332,Layout: View Rendering,diamond,50,Xul wizard page bleeds out of iframe

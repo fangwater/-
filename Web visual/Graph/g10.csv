@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#185451,389393,Build Config,circle,27,rewrite Makefile generation logic for configure rewrite
+#CD8CA5,579494,Build Config,circle,32,Autogenerate toolkit-makefiles.sh
+#E1415B,666439,Build Config,circle,20,autogenerate Makefile.in dependencies to enhance/replace use of allmakefiles.sh
+#BE7942,784841,Build Config,circle,27,Move DIRS logic out of Makefiles; eliminate allmakefiles
+#9FA7C8,800635,Build Config,circle,34,The build system should error out when some directory is not used at all
+#7FC2C5,838165,Build Config,triangle,16,Cleanup in NSPR hooking in the build system
+#1DB884,776611,Build Config,triangle,25,packager.mk: manifest files for {PACK;UNPACK}_OMNIJAR
+#18E949,820117,Build Config,triangle,22,XQuartz verification no longer required in python/mozboot/mozboot/osx.py
+#8D786E,657845,Build Config,triangle,18,Remove Core Text checking on OSX
+#8A816D,333533,Build Config,triangle,23,Shouldnt have to copy xpt_link.exe.manifest to dist/bin manually
+#71741A,925750,Build Config,triangle,15,Generate webidl .h files directly into dist/include
+#79A439,672581,Build Config,triangle,15,Investigate duplicate firefox-bin from mac app bundle
+#23B25A,609114,Build Config,triangle,18,use freetypes configure script configure its build rather than hard coding the makefile
+#815121,355067,Build Config,triangle,21,Package OS/2 cairo support library (mzfntcfg.dll) with SVG builds
+#24FCB5,786534,Build Config,triangle,16,Remove export target from xpcom/glue Makefiles
+#4C7671,907434,Build Config,triangle,17,Running any kind of mochitest in comm-central builds is not possible anymore (mozbuild.base.ObjdirMismatchException)
+#88D565,948717,Build Config,triangle,17,Trim a handful of unnecessary checks from js/src/configure.in
+#43B35A,314961,Build Config,triangle,23,Wont build when using spaces in --enable-optimize and having dash as sh
+#5FD51E,878866,Build Config,triangle,20,moz.build: verify CONFIG[ABI] setup
+#A94411,727189,Build Config,triangle,19,Ability to execute xpcshell tests in random order
+#167181,467526,Build Config,triangle,20,Require python >= 2.4 to build Mozilla (and >= 2.5 on Windows hosts)
+#6CAF62,836693,Build Config,diamond,50,Require python >= 2.4 to build Mozilla (and >= 2.5 on Windows hosts)

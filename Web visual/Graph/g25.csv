@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#ED7F84,673778,DOM: Core & HTML,circle,25,efgrehtgfjht
+#A654AF,680010,Find Backend,circle,21,home:smsmms:compose sms
+#3D2C22,682690,Build Config,circle,30,h
+#63FFA5,682700,Drag and Drop,circle,34,he is acting like mad
+#2CE985,686103,General,circle,32,bugs
+#CC8927,686195,Canvas: 2D,circle,33,A
+#625DFB,687813,General,circle,34,design homepage
+#62A18A,689529,Canvas: WebGL,circle,28,dddddddddddd
+#2461A6,695393,General,circle,34,The website in not opening in time
+#7D6124,584190,General,triangle,17,Roboform exchange
+#87338A,589655,General,triangle,22,(ietestcenter) CSS3 Fonts 5/13: font stretch descriptor
+#123B23,918835,General,triangle,18,Intermittent OS X TEST-UNEXPECTED-FAIL | Shutdown | application timed out after 330 seconds with no output | application crashed [@ libsystem_kernel.dylib + 0x16bca]
+#525F89,178544,General,triangle,22,make codesighs work on embed dist
+#DAFF42,403688,General,triangle,21,not able to post or reply
+#486DC1,863429,General,triangle,22,Fix jprof in debug builds
+#2326DF,521677,General,triangle,24,Fix build warnings: format not a string literal and no format arguments
+#C7FE3C,577833,General,triangle,16,sdsfghafhaerhet
+#668F15,599062,General,triangle,22,issuing make does not invalidate fastload/startupcache in opt builds
+#5EE217,483748,General,triangle,25,Cant load about: urls from the location bar
+#836328,559300,General,triangle,16,getElementsByTagName(name)[i].text doesnt work
+#3BCC42,522662,General,triangle,20,Random out of memory failure on the talos tp4 tests by __FAILbrowser frozen__FAIL
+#CC3EB4,695396,General,diamond,50,Random out of memory failure on the talos tp4 tests by __FAILbrowser frozen__FAIL

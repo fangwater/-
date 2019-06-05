@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#A59FF8,916665,Widget: Cocoa,circle,31,Overtyping in text field
+#D6FF44,916751,Layout: Text,circle,27,Many glitches in <textarea> and webpage
+#523ED3,916980,Layout,circle,22,[Regression] Text not Y positioned correctly
+#3DF4E5,917581,Graphics: Text,circle,20,text in bugzilla comment box drawn over itself
+#A2DF1A,126990,Layout,triangle,25,Weird layout of ComboBox
+#4E673F,220289,Layout,triangle,17,Page layout issue with Flash
+#FFEDB6,52568,Layout,triangle,20,top banners appear twice
+#D5A9E3,115726,Layout,triangle,25,Coordinates for position:absolute; are measured from incorrect reference.
+#77646C,58046,Layout,triangle,17,main content area empty
+#C4ACC7,286025,Layout,triangle,22,Web page does not fit properly to page until refresh
+#9AD7E4,1623,Layout,triangle,15,Table outline cut off on amazon.com; but not on NT debug build
+#F21793,1914,Layout,triangle,24,Redraw problems
+#C6ABF1,472410,Layout,triangle,24,URL bar highlight mistakenly switches colours on dark themes
+#154A73,66785,Layout,triangle,16,Freezes up when rendering background images
+#6CABAE,59209,Layout,triangle,23,Mozilla M18 wakes up ghosts on VIM page
+#A6FDAB,339616,Layout,triangle,17,Twisted text showed in Gmails Check-Spelling box; when alternate word in over the textarea border
+#6AC12D,14267,Layout,triangle,18,crash in NSPR3.DLL when switching widget rendering mode
+#6B2B74,87856,Layout,triangle,15,Netscape.com page not rendered correctly
+#9BA7A9,1851,Layout,triangle,15,P ends up above the H1 above it
+#9DA856,454727,Layout,triangle,24,DEBUG: Frame dumps look bad
+#19D1C3,898596,Layout,triangle,16,video Play button overlay is horizontally squished (oval) in Nightly; in contrast to Fx22 (circle).
+#95932B,917773,Layout,diamond,50,video Play button overlay is horizontally squished (oval) in Nightly; in contrast to Fx22 (circle).

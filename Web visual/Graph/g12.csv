@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#F266AF,501381,Layout,circle,20,XML nested A tag denial of service in nsCSSRuleProcessor
+#8416EB,547226,Layout,circle,27,Apple Safari; Mozilla Firefox and Opera browser Remote Denial of Service
+#ACCCF7,584465,Layout,circle,34,<iframe> containing large XML file with no closing tags results in possible memory corruption/stack overflow vulnerability
+#58581A,622346,DOM: Core & HTML,circle,23,crash: stack exhaustion by producing deeply nested tree
+#5483C2,644526,XML,circle,28,xml parser can generate deep DOM trees which crashes recursive layout algorithms
+#9A23BC,657108,XML,circle,25,XML-Parser crashes on malformed XML embedded through iframe.
+#F2C9B7,657455,DOM: Core & HTML,circle,31,Stack overflow in [@ nsGenericElement::UnbindFromTree(int; int) ] (4.0 and 6.0) / [@ nsXMLElement::UnbindFromTree(int; int) ] (5.0)
+#8C3456,664397,XML,circle,33,Crash in [@ nsBindingManager::RemovedFromDocument(nsIContent*; nsIDocument*) ]
+#95FAA4,134919,CSS Parsing and Computation,triangle,24,class attribute is ignored for table columns
+#A5F641,206781,CSS Parsing and Computation,triangle,25,nsCSSLoader::LoadSheet leaking file descriptors.
+#8834BA,60325,CSS Parsing and Computation,triangle,21,[review]<hr> line-height problem caused by large font size
+#4A477E,807,CSS Parsing and Computation,triangle,24,em units dont work
+#2AE9DB,73805,CSS Parsing and Computation,triangle,24,style  a:hover   doesnt work
+#3E95B6,736389,CSS Parsing and Computation,triangle,16,Assertion failure: mElements.Contains(cur) with -moz-column; :first-child
+#2A3343,82289,CSS Parsing and Computation,triangle,22,:first-line and :first-letter pseudos not re-resolved on attribute change
+#4B417E,208159,CSS Parsing and Computation,triangle,23,[FIX]rename -moz-hsl() to hsl()
+#645BB4,47760,CSS Parsing and Computation,triangle,25,body text color persists longer than stylesheet that set it [AltSS]
+#1AA46C,22925,CSS Parsing and Computation,triangle,19,fonts wrong in text fields
+#B94589,146630,CSS Parsing and Computation,triangle,15,CSS styles are not applied
+#1DC9F4,15844,CSS Parsing and Computation,triangle,19,[PP] Corrupted double border
+#163948,300205,CSS Parsing and Computation,triangle,17,CSS generated content is not rendered in XUL
+#ACFFD9,893036,CSS Parsing and Computation,diamond,50,CSS generated content is not rendered in XUL

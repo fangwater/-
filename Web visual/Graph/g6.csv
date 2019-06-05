@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#42F67B,641226,Plug-ins,circle,22,[adbe 2912123] Crash [@ mozalloc_abort | NS_DebugBreak_P | mozilla::plugins::PPluginInstanceChild::FatalError ]
+#64672A,657588,Plug-ins,circle,27,[adbe 2875277] Crash [@ std::_Construct<MessageLoop::PendingTask; MessageLoop::PendingTask>(MessageLoop::PendingTask*; MessageLoop::PendingTask const&) ] | ABORT: CRT ASSERT dbgheap.c(1279) : Assertion failed: _CrtIsValidHeapPointer(pUserData)
+#663811,678538,Plug-ins,circle,34,[OOPP] Heap Corruption with Flash
+#E9AE97,688608,Plug-ins,circle,27,[@ std::_Construct<MessageLoop::PendingTask; MessageLoop::PendingTask>(MessageLoop::PendingTask*; MessageLoop::PendingTask const&) ]
+#11B5C9,567861,Plug-ins,triangle,17,flash crash at farmville with no crash report
+#35FAA1,401599,Plug-ins,triangle,18,firefox hangs if daughter window with flash content is closed while playing
+#EAC282,339695,Plug-ins,triangle,19,New version of JEP (0.9.5+e); please land on trunk and branch(es)
+#E39F39,359237,Plug-ins,triangle,15,NPN_Status with non-ascii characters doesnt display anything
+#AFC527,173941,Plug-ins,triangle,18,The real player plugin does not communicate with  java.
+#616BB3,557521,Plug-ins,triangle,24,test plugin should always draw with Core Text on Mac OS X
+#5494F6,691983,Plug-ins,triangle,22,Flash Player 11 64-Bit Cannot Install
+#C72ADB,802355,Plug-ins,triangle,16,crash spike in mozilla::plugins::PluginModuleParent::StreamCast with abort message: Corrupted plugin stream data.: file e:/builds/moz2_slave/m-cen-w32-ntly/build/dom/plugins/ipc/PluginModuleParent.cpp; line 844
+#D2636E,341969,Plug-ins,triangle,23,JFileChooser in Applets Does not Recognise Mouse in 10.3.9
+#62181F,191288,Plug-ins,triangle,15,Java Plugin wont load
+#479324,128833,Plug-ins,triangle,15,djvu pages dont render correctly.
+#54A741,562997,Plug-ins,triangle,24,[OOPP] Unsupported NPEventsOSX are serialized.
+#DF79B7,450123,Plug-ins,triangle,25,Youtube video blocks/freezes after two seconds of play
+#EDD2B1,242150,Plug-ins,triangle,24,NPN_GetValue of NPNVisOfflineBool always returns false (from plugin)
+#4D73A8,317486,Plug-ins,triangle,23,Some plug-ins may eat WM_SETFOCUS / WM_KILLFOCUS
+#34A2FA,937817,Plug-ins,triangle,22,hanging; freezing; sites not recognizing log-in names or passwords with FFv.25.0. video and audio freezing with flashplayer running Win7 on HP laptop.  I Have reverted back to FFv24.0 at download.net.cnet and many of the issues have been resolved.
+#4675B6,380530,Plug-ins,triangle,17,Firefox crash when many windows opened by a script and new windows opened in new tabs
+#42A786,691723,Plug-ins,diamond,50,Firefox crash when many windows opened by a script and new windows opened in new tabs

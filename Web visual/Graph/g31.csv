@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#558DE3,878611,JavaScript Engine,circle,33,Intermittent bug744356.js | --baseline-eager: e:\builds\moz2_slave\m-in-w32-000000000000000000000\build\js\src\jit-test\tests\basic\bug744356.js:13:3 ReferenceError: SECTION is not defined
+#4A4816,886171,JavaScript Engine,circle,33,Intermittent jit-test\tests\auto-regress\bug710192.js | --ion-eager: bug710192.js:10:0 Error: Assertion failed: got (void 0); expected 1234
+#24919E,887559,JavaScript Engine,circle,30,Intermittent auto-regress\bug665914.js | --ion-eager TypeError: anonymous method called on incompatible ArrayBufferPrototype
+#4F8461,913334,JavaScript Engine,circle,31,Intermittent jit-test\tests\auto-regress\bug654392.js | --baseline-eager: e:\builds\moz2_slave\m-in-w32-d-0000000000000000000\build\js\src\jit-test\tests\auto-regress\bug654392.js:11:0 InternalError: too much recursion
+#445C63,913335,JavaScript Engine,circle,22,Intermittent bug605013.js | --no-baseline --no-ion: e:\builds\moz2_slave\m-cen-w32-d-000000000000000000\build\js\src\jit-test\tests\auto-regress\bug605013.js:7:0 ReferenceError: AttributeName is not defined
+#6BC8C2,913859,JavaScript Engine,circle,23,Intermittent flatten-throws.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\m-cen-w32-d-000000000000000000\build\js\src\jit-test\tests\parallel\flatten-throws.js:6:0 Error: cannot flatten 1-dimensional ParallelArray object
+#ABBDFC,913862,JavaScript Engine,circle,35,Intermittent testBadLetBodyWithArguments.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\fx-team-w32-d-0000000000000000\build\js\src\jit-test\tests\basic\testBadLetBodyWithArguments.js:5:19 ...................^
+#9DBE63,913979,JavaScript Engine,circle,33,Intermittent bug605015.js | : e:\builds\moz2_slave\m-in-w32-000000000000000000000\build\js\src\jit-test\tests\basic\bug605015.js:9:0 TypeError: print(...) is not a function
+#BC9B89,915504,JavaScript Engine,circle,26,Intermittent Frame-onPop-throw-throw.js | --ion-eager --ion-check-range-analysis: uncaught exception: TestComplete
+#FAC958,916238,JavaScript Engine,circle,28,Intermittent modWithConstLhs.js | --ion-eager --ion-check-range-analysis: \js\src\jit-test\tests\jaeger\modWithConstLhs.js:2:0 ReferenceError: s is not defined
+#E2958C,916240,JavaScript Engine,circle,30,Intermittent testBug773108.js | --no-baseline --no-ion --no-ti: testBug773108.js:3:394 ............................................................^
+#6C313F,916242,JavaScript Engine,circle,22,Intermittent bug555155.js | --baseline-eager --no-ti --no-fpu: uncaught exception: undefined
+#39A756,916244,JavaScript Engine,circle,27,Intermittent js\src\jit-test\tests\ion\bug692208.js | --ion-eager: js\src\jit-test\tests\ion\bug692208.js:7:4 ReferenceError: result is not defined
+#927341,916249,JavaScript Engine,circle,22,Intermittent js\src\jit-test\tests\auto-regress\bug800878.js | --ion-eager --ion-check-range-analysis: js\src\jit-test\tests\auto-regress\bug800878.js:9:8 Error: function can be called only in debu
+#14BAD7,928507,JavaScript Engine,triangle,24,JS::Handles assignment operator is not properly hidden
+#3BA7AF,729811,JavaScript Engine,triangle,17,IonMonkey: Assertion failure: found; at js/src/ion/IonBuilder.cpp:1455
+#AC7A7E,469124,JavaScript Engine,triangle,23,[@ call_enumerate - js_Enumerate] null function
+#39A1FB,453589,JavaScript Engine,triangle,17,tsn.ca causes Firefox to crash when JIT is enabled
+#DE8C5A,20248,JavaScript Engine,triangle,25,Javascript layer/clipping? problem
+#FB86FB,617458,JavaScript Engine,triangle,24,TypeInference: Assertion failure: !synced()
+#E3C59C,674179,JavaScript Engine,triangle,15,[INFER] Make TypeInference work on solaris sparc
+#E1836E,916352,JavaScript Engine,diamond,50,[INFER] Make TypeInference work on solaris sparc

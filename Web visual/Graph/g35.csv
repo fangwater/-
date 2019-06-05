@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#2214B8,14453,Layout,circle,31,{css2} Generated content should not be selectable
+#F3A3D3,17451,Selection,circle,22,try using selection in the view-source window
+#46535A,18453,Selection,circle,34,Non-alphanumeric characters not highlighted in view-source
+#229F89,19480,Selection,circle,21,cant select generated text with attr() function
+#EB53A8,25314,Selection,circle,29,Cant select code in the View page source
+#393DFF,26135,Editor,circle,22,anchors dont show selection state
+#573524,26168,Selection,circle,31,unable to select text in the view source window
+#DDAC64,28816,Selection,circle,32,Selection problems (dragging and dbl-click) with punctuation (<; >; /; etc.)
+#32533C,72734,Selection,circle,29,Cant select or copy text together with quotes produced by <q> tag together
+#9236A5,232361,CSS Parsing and Computation,circle,25,Cant selected generated content (using :after selector)
+#4F1F8F,245491,Selection,circle,20,Unable to highlight / select text that is inserted using the :before and :after pseudo-elements
+#76A5DA,475493,Layout: Text,circle,29,HTML <q> does not participate correctly in text selections
+#FEEB27,625869,Selection,circle,33,Impossible to select CSS generated quotes around blockquotes
+#667314,607436,Find Backend,triangle,22,Find bar search does not work in Google Docs
+#ADCC74,404515,Find Backend,triangle,23,Imitate Safaris Find results highlighting behavior
+#247474,480810,Find Backend,triangle,15,On some pages; Minefield Quick Find stops matching if word contains apostrophe character ()
+#F55994,803579,Find Backend,triangle,24,Firefox saturates CPU and stops responding when doing text search
+#187812,582901,Find Backend,triangle,17,dasd
+#1BEE7F,475306,Find Backend,triangle,22,Find bar should treat typewriter and typographically correct characters the same
+#8C318E,616777,Find Backend,triangle,20,aaa
+#A63C35,837903,Find Backend,triangle,23,Mark embedding/components/find/src/ as FAIL_ON_WARNINGS
+#8B84C2,892250,Find Backend,diamond,50,Mark embedding/components/find/src/ as FAIL_ON_WARNINGS

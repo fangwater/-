@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#CDB7BC,894945,DOM,circle,26,Intermittent dom-level2-core/test_getElementsByTagNameNS05.html | Test timed out.
+#4261D1,899337,DOM,circle,24,Intermittent dom/tests/mochitest/dom-level2-html/test_HTMLElement29.html | Test timed out.
+#1C14F6,918831,General,circle,20,Intermittent dom-level1-core/test_hc_namednodemapsetnameditemthatexists.html | application timed out after 330 seconds with no output
+#937D38,919088,DOM,circle,26,Intermittent TEST-UNEXPECTED-FAIL | dom-level1-core/test_hc_attrname.html | Test timed out.
+#7543CB,919323,DOM,circle,22,Intermittent dom-level1-core/test_hc_elementretrievetagname.html | Test timed out
+#68ECB6,919354,DOM,circle,34,Intermittent dom-level2-core/test_setAttributeNS09.html | application timed out after 330 seconds with no output
+#54258C,920521,DOM,circle,26,Intermittent TEST-UNEXPECTED-FAIL | /tests/dom/tests/mochitest/dom-level2-html/test_HTMLElement96.html
+#B35BFA,924341,DOM,circle,21,Intermittent TEST-UNEXPECTED-FAIL | /tests/dom/tests/mochitest/dom-level1-core/test_nodevalue05.html | application timed out after 330 seconds with no output
+#7A2955,742217,DOM,triangle,19,Reduce the use of namespaces in Paris bindings
+#BE5C79,278390,DOM,triangle,25,1.8a6 compile error on HPUX
+#726DFD,282870,DOM,triangle,16,innerHTML inserts bogus form elements when inserting form controls
+#A789C4,537527,DOM,triangle,17,Web Workers can be used to fork bomb Firefox
+#D414A4,494359,DOM,triangle,20,Crash Firefox 3.5pre Crash Report [@ NS_GetInnermostURI(nsIURI*) - nsDOMStorage::InitAsSessionStorage]
+#CC9369,343596,DOM,triangle,18,setTimeout doesnt work after setting script nodes text to a script that causes an error
+#D23391,559839,DOM,triangle,24,Failures in ajax test suites arent counted
+#BCAF8A,355549,DOM,triangle,19,Crash when closing Firefox trunk [@ SearchTable]
+#467FCF,877910,DOM,triangle,16,opening railsdiff crashes Firefox in mozilla::dom::HTMLOptionsCollection::NamedItem @ JSAutoCompartment::JSAutoCompartment
+#7BFCE8,559317,DOM,triangle,16,Oom crash [@ nsGenericElement::ParseAttribute]
+#2A4357,506293,DOM,triangle,18,SetTimout does not input.select NS_ERROR_XPC_BAD_OP_ON_WN_PROTO
+#14A875,645341,DOM,triangle,15,opener.focus() is not working; parent window/tab is not focused
+#D14EE2,350158,DOM,triangle,18,Crash using Dictionary Tooltip on Gmail
+#D22FE9,924352,DOM,diamond,50,Crash using Dictionary Tooltip on Gmail

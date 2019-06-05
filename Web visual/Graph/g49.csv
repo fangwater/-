@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#A13E45,142368,Layout: Tables,circle,24,Absolutely positioned children in an absolutely positioned table have wrong containing block
+#D3FE25,199444,Layout: R & A Pos,circle,25,TD with relative positioning not used as containing block for absolute positioned childs
+#EACAB5,217002,Layout: R & A Pos,circle,31,relatively-positioned table row should be containing block for abs pos elts
+#5B3415,258736,CSS Parsing and Computation,circle,34,CSS absolute positions incorrectly when tables nested
+#DE76B1,266715,Layout: R & A Pos,circle,33,Menus display incorrectly (position:absolute table inside position:relative table)
+#BAA5CB,268505,Layout: R & A Pos,circle,23,Absolute positioned element inside relative positioned container element is placed wrt. page origin; if the container element is a table; row or cell
+#B11A4B,270741,Layout: Tables,circle,34,Table with default location attributes is not positioned properly. Views fine in IE or Netscape; but not in Firefox 1.0
+#344B51,273970,Layout: R & A Pos,circle,21,absolutly positioned div not recognizing a parent div as a containing block if parent has display:table set
+#DEE421,288351,Layout: Tables,circle,32,HTML page not displayed correctly
+#C3A6D6,288794,Layout: View Rendering,circle,25,absolute positioned box in relative postioned box with set display: table
+#6FF37D,291009,Layout: Tables,circle,29,Element improperly absolutely positioned when containing block is TABLE
+#76C329,315634,Layout: R & A Pos,circle,35,Seemingly plain-vanilla static HTML web page renders a horrible-looking mess on-screen
+#551F99,442492,CSS Parsing and Computation,circle,31,position absolute fails within position absolute elements
+#339EF5,447878,Layout,circle,34,Tables cannot act as abs-pos containing blocks.
+#597489,530867,Layout: R & A Pos,circle,23,Bug when style.position=absolute and setting style.left and/or style.top
+#7B5665,546596,Layout,circle,29,Using table:hover to reveal an absolutely positioned child of <caption> doesnt work
+#D6653C,599720,Layout: R & A Pos,circle,32,Absolute positioning of child div in a table wrongly implemented
+#DB9A6C,606517,Layout,circle,30,Absolute-positionned thead do not take into account its relative-positionned table
+#2C35FD,561209,General,triangle,25,Hotel or other login redirect pages destroy history
+#BB1F4C,869696,General,triangle,20,Using Gralloc causes bad performance on the Geeksphone Peak
+#E38E2C,598769,General,triangle,20,Firefox crash [@ nsThread::ProcessNextEvent(int; int*) ] due to McAfee Site Advisor 3.4.0
+#19D564,680963,General,diamond,50,Firefox crash [@ nsThread::ProcessNextEvent(int; int*) ] due to McAfee Site Advisor 3.4.0

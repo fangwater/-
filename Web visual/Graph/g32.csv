@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#219735,899337,DOM,circle,32,Intermittent dom/tests/mochitest/dom-level2-html/test_HTMLElement29.html | Test timed out.
+#8BFD27,918831,General,circle,22,Intermittent dom-level1-core/test_hc_namednodemapsetnameditemthatexists.html | application timed out after 330 seconds with no output
+#D1E5CA,919088,DOM,circle,29,Intermittent TEST-UNEXPECTED-FAIL | dom-level1-core/test_hc_attrname.html | Test timed out.
+#1DCDB8,919323,DOM,circle,28,Intermittent dom-level1-core/test_hc_elementretrievetagname.html | Test timed out
+#5588D6,919354,DOM,circle,22,Intermittent dom-level2-core/test_setAttributeNS09.html | application timed out after 330 seconds with no output
+#A293E8,920501,DOM,circle,34,Intermittent dom-level1-core/test_textsplittextfour.html | application timed out after 330 seconds with no output
+#7D4D44,925715,DOM,circle,34,Intermittent TEST-UNEXPECTED-FAIL | /tests/dom/tests/mochitest/dom-level2-core/test_createElementNS06.html | Test timed out.
+#D146FC,926885,DOM,circle,27,Intermittent TEST-UNEXPECTED-FAIL | /tests/dom/tests/mochitest/dom-level2-html/test_HTMLIFrameElement11.html | Test timed out.
+#CD1772,927836,DOM,circle,30,Intermittent TEST-UNEXPECTED-FAIL | /tests/dom/tests/mochitest/dom-level1-core/test_hc_documentcreatecomment.html | Test timed out.
+#8F2B25,727666,DOM,triangle,16,Worker hang at shutdown with XHR
+#A31547,616138,DOM,triangle,18,Dekiwiki error on developer.mozilla.org; A red error message appears instead of Code
+#4BAC3D,68354,DOM,triangle,25,using document.getElementById by reference causes browser to crash
+#FB7AF6,723983,DOM,triangle,21,intermittent crashtest timeout in dom/base/crashtests/706283-1.html
+#C96364,257586,DOM,triangle,16,The web page will show pictures that are on a command within Javascript
+#4FBA93,871578,DOM,triangle,22,dont include AccessCheck.h or nsContentUtils.h in bindings unless necessary
+#88E45A,63429,DOM,triangle,20,An attempt to browse to the third level of the DOM 1 document tree crashes mozilla
+#8288B1,877654,DOM,triangle,25,Remove thisptr offset tables
+#63CE92,1505,DOM,triangle,17,freeze after window close
+#E14F1D,908351,DOM,triangle,22,Stop over-including DOMJSClass.h
+#8EB348,708198,DOM,triangle,19,AttributeChildRemoved Use-After-Free (ZDI-CAN-1413)
+#5725B8,870667,DOM,triangle,22,Reinstate the dom.enable_performance preference; but have it just control what gets returned from performance.timing.*
+#C4816E,927854,DOM,diamond,50,Reinstate the dom.enable_performance preference; but have it just control what gets returned from performance.timing.*

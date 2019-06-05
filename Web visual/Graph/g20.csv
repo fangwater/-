@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#6A545D,667144,SVG,circle,32,Intermittent REFTEST TEST-UNEXPECTED-FAIL | http://10.250.48.152:30035/tests/layout/reftests/svg/sizing/standalone-sanity-height-pct.svg | load failed: null
+#99A65C,693836,Layout,circle,32,Intermittent Android REFTEST TEST-UNEXPECTED-FAIL | layout/reftests/transform/matrix-2a.html and matrix-3a.html | load failed: null
+#62549A,697046,Layout,circle,35,intermittent REFTEST TEST-UNEXPECTED-FAIL | http://10.250.48.217:30140/tests/layout/reftests/css-submit-invalid/input-image/change-type-submit-control.html | load failed: null
+#4E2455,699110,Layout,circle,23,Intermittent Android REFTEST TEST-UNEXPECTED-FAIL layout/reftests/pixel-rounding/border-width-6.html and border-left-10-ref.html| load failed: null
+#E88514,701923,Layout,circle,33,Intermittent Android REFTEST TEST-UNEXPECTED-FAIL | layout/reftests/transform/matrix-7-ref.html | load failed: null
+#256EEF,705935,Layout,circle,20,Intermittent Android REFTEST TEST-UNEXPECTED-FAIL | tests/layout/reftests/transform-3d/sorting-1-ref.html | load failed: null
+#367458,720749,Layout,circle,22,Intermittent Android layout/xul/base/src/crashtests/289410-1.xul | load failed: null
+#4B112C,732273,ImageLib,circle,33,Intermittent Android REFTEST TEST-UNEXPECTED-FAIL | image/test/reftest/pngsuite-oddsizes/s09i3p02.png | load failed: null
+#F7573C,765785,Layout: Block and Inline,circle,22,Intermittent margin-collapsing/block-float-2b.html | load failed: null
+#C56EB2,769914,Layout,circle,30,Intermittent REFTEST TEST-UNEXPECTED-FAIL | tests/layout/reftests/text/auto-hyphenation-7-ref.html | load failed: null
+#CEFCA1,782999,Layout: Tables,circle,21,Intermittent Android transform/table-1b.html | load failed: null
+#F72DDE,364407,Layout,triangle,20,ASSERTION: frame should be clean when getting special height reflow with overflow:scroll; table; <select>
+#A1CD24,40886,Layout,triangle,24,Link in imagemap doesnt work with nonlocal USEMAP=
+#191F65,618730,Layout,triangle,19,Crash [@ mozilla::layers::BasicThebesLayer::Paint] (almost permaorange on Thunderbird)
+#C1C212,363235,Layout,triangle,16,[FIX]Regression with display of image placeholders when an invalid protocol is used
+#D18EBD,32466,Layout,triangle,19,Very wrong rendering of bulleted list
+#CE353F,82926,Layout,triangle,18,[PATCH] crash [@ gklayout::NS_NewFrameManager]
+#EF82D4,716793,Layout,triangle,17,Dispatch synthetic mousemove off the refresh driver
+#BBCC71,283997,Layout,triangle,25,Content vanishes after reseting font size on http://planet.mozilla.org/
+#D856A7,162853,Layout,triangle,19,invalid page fault in module GKLAYOUT.DLL
+#934142,67499,Layout,triangle,23,Javascript wont change image over frames
+#EDA8EA,786624,Layout,diamond,50,Javascript wont change image over frames

@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#C99C76,878611,JavaScript Engine,circle,33,Intermittent bug744356.js | --baseline-eager: e:\builds\moz2_slave\m-in-w32-000000000000000000000\build\js\src\jit-test\tests\basic\bug744356.js:13:3 ReferenceError: SECTION is not defined
+#E58196,887559,JavaScript Engine,circle,33,Intermittent auto-regress\bug665914.js | --ion-eager TypeError: anonymous method called on incompatible ArrayBufferPrototype
+#723FD9,899611,JavaScript Engine,circle,32,Intermittent TEST-UNEXPECTED-FAIL | jit-test\tests\jaeger\bug583158.js | --no-baseline --no-ion: jit-test\tests\jaeger\bug583158.js:6:0 ReferenceError: a is not defined
+#2CBCD9,899697,JavaScript Engine,circle,21,Intermittent TEST-UNEXPECTED-FAIL | jit-test\tests\auto-regress\bug704136.js | --ion-eager: jit-test\tests\auto-regress\bug704136.js:8:0 ReferenceError: jsTestDriverEnd is not defined
+#4DBB18,913334,JavaScript Engine,circle,24,Intermittent jit-test\tests\auto-regress\bug654392.js | --baseline-eager: e:\builds\moz2_slave\m-in-w32-d-0000000000000000000\build\js\src\jit-test\tests\auto-regress\bug654392.js:11:0 InternalError: too much recursion
+#13692C,913335,JavaScript Engine,circle,35,Intermittent bug605013.js | --no-baseline --no-ion: e:\builds\moz2_slave\m-cen-w32-d-000000000000000000\build\js\src\jit-test\tests\auto-regress\bug605013.js:7:0 ReferenceError: AttributeName is not defined
+#C35AAC,913861,JavaScript Engine,circle,29,Intermittent bug650617.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\fx-team-w32-pgo-00000000000000\build\js\src\jit-test\tests\auto-regress\bug650617.js:6:0 ReferenceError: split is not defined
+#A1B764,913862,JavaScript Engine,circle,22,Intermittent testBadLetBodyWithArguments.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\fx-team-w32-d-0000000000000000\build\js\src\jit-test\tests\basic\testBadLetBodyWithArguments.js:5:19 ...................^
+#71C11E,915504,JavaScript Engine,circle,22,Intermittent Frame-onPop-throw-throw.js | --ion-eager --ion-check-range-analysis: uncaught exception: TestComplete
+#C5A3FF,916242,JavaScript Engine,circle,24,Intermittent bug555155.js | --baseline-eager --no-ti --no-fpu: uncaught exception: undefined
+#46B186,916244,JavaScript Engine,circle,22,Intermittent js\src\jit-test\tests\ion\bug692208.js | --ion-eager: js\src\jit-test\tests\ion\bug692208.js:7:4 ReferenceError: result is not defined
+#9F5AD3,916246,JavaScript Engine,circle,25,Intermittent js\src\jit-test\tests\auto-regress\bug727330.js | --ion-eager: js\src\jit-test\tests\auto-regress\bug727330.js:9:0 TypeError: cant change objects extensibility
+#A6F151,325721,JavaScript Engine,triangle,16,assigning to a global variable in javascript crashes browser
+#5DB6E6,691299,JavaScript Engine,triangle,17,Crash at js::RegExp::executeInternal
+#1A7B52,865931,JavaScript Engine,triangle,24,PJS: Add test for wild comparisons
+#22BFC8,473709,JavaScript Engine,triangle,24,Assertion failure: cursor == (uint8 *)copy->messageArgs[0] + argsCopySize; at jsexn.c or Assertion failure: cursor == (uint8 *)copy->messageArgs[0] + argsCopySize; at jsexn.cpp
+#597458,347157,JavaScript Engine,triangle,22,Mixing eval and normal recursion lets me defeat recursion limits
+#DBBF9C,69559,JavaScript Engine,triangle,21,function f(o;s;x) {with(o) eval(s); return z;} not parsing correctly
+#B27452,843919,JavaScript Engine,triangle,20,Compartment checking on every GC makes DEBUG builds really slow
+#C55457,817626,JavaScript Engine,triangle,22,BaselineCompiler: Add missing compare ops
+#DB226A,4423,JavaScript Engine,triangle,19,Javascript-generated pop-up menus dont work...
+#ACDC2E,916247,JavaScript Engine,diamond,50,Javascript-generated pop-up menus dont work...

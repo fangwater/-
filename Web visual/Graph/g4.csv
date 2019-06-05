@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#9E4221,659313,Editor,circle,20,Keyboard events are not fired when designMode property of document set on
+#B61562,765780,Editor,circle,32,Enable plugins and javascript in designMode
+#B4BEF8,225060,DOM,triangle,15,deCOMtaminate nsINodeInfo / nsINodeInfoManager
+#5B2966,759995,DOM,triangle,23,Stop warning on use of the global scope polluter
+#C769CF,793000,DOM,triangle,18,Make it easier to handle JS callbacks in webidl interface implementations
+#CAB2A5,915726,DOM,triangle,17,[Web Notifications] follow-up; change notification properties from Constant to Pure
+#1B39A1,335849,DOM,triangle,23,[FIX]Yahoo Mail Beta crashes 1.8.1 branch/linux with a null principal [@ nsScriptSecurityManager::CheckSameOriginPrincipalInternal]
+#77A2F6,597722,DOM,triangle,21,Firefox 4.0b7pre Crash Report [@ nsXPConnect::GetCaller(JSContext**; JSObject**) ]
+#E18E89,310508,DOM,triangle,25,Calling method on another window crashes when the function uses XMLHttpRequest and alert() [@ js_FreeStack]
+#4EDE8F,795798,DOM,triangle,21,Intermittent timeout in test_CrossSiteXHR.html & test_CrossSiteXHR_cache.html (after some failures); followed by test-harness timeout
+#B393A6,699743,DOM,triangle,15,Implement battery.chargingTime
+#A8A334,809304,DOM,triangle,23,paris bindings constant definitions cause static initializers
+#647991,699114,DOM,triangle,22,XMLHttpRequest returns error  and error code 0; used to return no such domain
+#C22BED,110591,DOM,triangle,16,DOMClassInfo interface shortcuts twice as fast as Components.interface.*
+#FD231B,696817,DOM,triangle,21,Cycle-collect nsDOMWindowUtils
+#831123,524423,DOM,triangle,17,User property of a <form> element is not enumerable
+#2715ED,931974,DOM,triangle,21,Interface nsIDOMHTMLElement; in file nsIDOMHTMLElement.idl needs a new IID for Firefox 26
+#DF2DA1,634467,DOM,triangle,15,Posting to Google Groups New interface double-posts
+#9711F5,335976,DOM,triangle,22,touching xul:textbox that has been moved between documents causes Illegal operation on WrappedNative prototype object
+#F88CBA,942921,DOM,triangle,20,dom/base/nsGlobalWindow.cpp:1157:26: error: getpid was not declared in this scope
+#FBF9CC,47420,DOM,triangle,24,NamedNodeMap.item throws incorrect Exception
+#B67AD9,887197,DOM,diamond,50,NamedNodeMap.item throws incorrect Exception

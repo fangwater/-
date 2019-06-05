@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#3278AA,878611,JavaScript Engine,circle,28,Intermittent bug744356.js | --baseline-eager: e:\builds\moz2_slave\m-in-w32-000000000000000000000\build\js\src\jit-test\tests\basic\bug744356.js:13:3 ReferenceError: SECTION is not defined
+#DEF741,899611,JavaScript Engine,circle,34,Intermittent TEST-UNEXPECTED-FAIL | jit-test\tests\jaeger\bug583158.js | --no-baseline --no-ion: jit-test\tests\jaeger\bug583158.js:6:0 ReferenceError: a is not defined
+#CAEFE1,899697,JavaScript Engine,circle,20,Intermittent TEST-UNEXPECTED-FAIL | jit-test\tests\auto-regress\bug704136.js | --ion-eager: jit-test\tests\auto-regress\bug704136.js:8:0 ReferenceError: jsTestDriverEnd is not defined
+#DC46E3,913334,JavaScript Engine,circle,21,Intermittent jit-test\tests\auto-regress\bug654392.js | --baseline-eager: e:\builds\moz2_slave\m-in-w32-d-0000000000000000000\build\js\src\jit-test\tests\auto-regress\bug654392.js:11:0 InternalError: too much recursion
+#5241B8,913335,JavaScript Engine,circle,22,Intermittent bug605013.js | --no-baseline --no-ion: e:\builds\moz2_slave\m-cen-w32-d-000000000000000000\build\js\src\jit-test\tests\auto-regress\bug605013.js:7:0 ReferenceError: AttributeName is not defined
+#AD2795,913859,JavaScript Engine,circle,30,Intermittent flatten-throws.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\m-cen-w32-d-000000000000000000\build\js\src\jit-test\tests\parallel\flatten-throws.js:6:0 Error: cannot flatten 1-dimensional ParallelArray object
+#57E585,913861,JavaScript Engine,circle,30,Intermittent bug650617.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\fx-team-w32-pgo-00000000000000\build\js\src\jit-test\tests\auto-regress\bug650617.js:6:0 ReferenceError: split is not defined
+#1FABD4,913862,JavaScript Engine,circle,29,Intermittent testBadLetBodyWithArguments.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\fx-team-w32-d-0000000000000000\build\js\src\jit-test\tests\basic\testBadLetBodyWithArguments.js:5:19 ...................^
+#EF6E6F,913979,JavaScript Engine,circle,26,Intermittent bug605015.js | : e:\builds\moz2_slave\m-in-w32-000000000000000000000\build\js\src\jit-test\tests\basic\bug605015.js:9:0 TypeError: print(...) is not a function
+#6D8E51,915504,JavaScript Engine,circle,28,Intermittent Frame-onPop-throw-throw.js | --ion-eager --ion-check-range-analysis: uncaught exception: TestComplete
+#82912F,916238,JavaScript Engine,circle,28,Intermittent modWithConstLhs.js | --ion-eager --ion-check-range-analysis: \js\src\jit-test\tests\jaeger\modWithConstLhs.js:2:0 ReferenceError: s is not defined
+#C47672,916240,JavaScript Engine,circle,28,Intermittent testBug773108.js | --no-baseline --no-ion --no-ti: testBug773108.js:3:394 ............................................................^
+#36C5F2,916242,JavaScript Engine,circle,35,Intermittent bug555155.js | --baseline-eager --no-ti --no-fpu: uncaught exception: undefined
+#4951FF,715088,JavaScript Engine,triangle,24,IonMonkey: Assertion failure: no payload...; at CodeGenerator-x86.cpp:137
+#5834FC,109620,JavaScript Engine,triangle,21,Deadlock or crash ?
+#6FA92C,793385,JavaScript Engine,triangle,15,Assertion failure: addr % Cell::CellSize == 0; at ../../gc/Heap.h:846 with OOM
+#74B345,559706,JavaScript Engine,triangle,18,Use of <algorithm> in jsworkers.cpp breaks android build
+#BE577D,656847,JavaScript Engine,triangle,22,Assertion failure: strcmp(rval; forelem_cookie) == 0 with trap; destructuring; decompilation for warning
+#EB64D7,938385,JavaScript Engine,triangle,22,lazy-parsing and very-large scripts still a problem
+#31ADB6,350377,JavaScript Engine,triangle,17,function () { return 3..();}
+#78969A,641502,JavaScript Engine,triangle,19,TI: Add TI+JM to AWFY
+#567AA5,916246,JavaScript Engine,diamond,50,TI: Add TI+JM to AWFY

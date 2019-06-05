@@ -1,0 +1,26 @@
+color,id,label,shape,size,value
+#E4F9EC,673778,DOM: Core & HTML,circle,26,efgrehtgfjht
+#945D9A,682690,Build Config,circle,29,h
+#878FE5,686102,General,circle,34,bugs
+#BAE54E,686103,General,circle,28,bugs
+#EF5878,686176,Networking: JAR,circle,25,new bug
+#CD1ACB,687238,Canvas: WebGL,circle,26,This is a test bug
+#3CD1B2,687813,General,circle,32,design homepage
+#CCA77A,688444,Canvas: 2D,circle,29,xc vxvxvxv
+#713188,689529,Canvas: WebGL,circle,34,dddddddddddd
+#DBBFE3,689861,Drag and Drop,circle,21,drag and drop is not happening in my pc
+#3426C1,695393,General,circle,32,The website in not opening in time
+#ADB64B,695624,General,circle,31,pop ups
+#F35E52,706763,Canvas: 2D,circle,34,gchmdghmdghm
+#F747B8,719367,Graphics,circle,31,XYZ
+#AE79AB,719370,ImageLib,circle,31,qwe
+#A93EDC,732464,Printing: Output,circle,28,aaaaaaaaaaaa
+#E47AF8,739065,DOM: Events,circle,26,Bugzilla Account
+#DFF546,740267,DOM,circle,28,122
+#375E32,751470,Tracking,circle,30,this is a great bug
+#C964AE,761928,Build Config,circle,29,sdfsdfsdfsdfsdfsdfsdfsdf
+#AAA8A7,771070,General,circle,24,it doe s not work
+#CA8F44,780091,General,circle,25,link not working
+#282468,782525,Printing: Output,circle,26,print error
+#3253A8,782526,Printing: Setup,circle,33,print error
+#FF4CFD,782527,Printing: Setup,diamond,50,print error

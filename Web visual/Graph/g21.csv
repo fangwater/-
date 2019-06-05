@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#4631B5,349580,Layout: Block and Inline,circle,26,margin gets doubled at top of canvas in certain case involving floats and clears
+#2DD56B,537808,Layout: Floats,circle,33,Unexpected extra space when margins; floats; and generated content combined in a particular way
+#D19A32,542972,Layout: Block and Inline,circle,34,margin-bottom + float affects bodys top margin
+#A27454,618696,Layout: Floats,circle,34,Double margin when using floats
+#9CECE8,658394,Layout,circle,29,Wrong margin-top while only margin-bottom is set
+#D22AE7,734279,Layout: Floats,circle,35,Margins dont work properly for elements containing floating elements
+#19A5B6,788566,Layout: Block and Inline,circle,29,margin-top of an element following an empty element with clearance renders incorrectly
+#ED2483,837417,Layout,circle,33,This HTML code sends Firefox 18.0.1 nuts!! (adds margin to wrong div)
+#B27B71,234356,Layout: Floats,triangle,17,Floats seem to clear other floats when they shouldnt
+#BFC135,223725,Layout: Floats,triangle,18,float:left on a <td> breaks table rendering in 1.5/1.6a
+#682A7B,384762,Layout: Floats,triangle,25,Negative margin + clear broken
+#868C96,143162,Layout: Floats,triangle,20,list-items (LIs) near floats wrap block around float (i.e.; they use -moz-float-edge)
+#CF7133,604169,Layout: Floats,triangle,24,clear:left and clear:right behaving like clear:both
+#DF7AF1,21193,Layout: Floats,triangle,25,[FLOAT] Half-size Box Acid Test Layout broken due to rounding
+#9C33DF,325189,Layout: Floats,triangle,20,Document not re-rendered after appendChild or removeChild
+#1C71A8,239577,Layout: Floats,triangle,16,Float on nested divs floats outside of the top level div.
+#74459A,387051,Layout: Floats,triangle,22,ASSERTION: A blocks childs next in flows parent must be a block! with margin: 60% and floats
+#A8592F,205191,Layout: Floats,triangle,20,if middel column has no width: tag it is rendered incorrectly
+#543391,225461,Layout: Floats,triangle,24,Inline boxes: Floating block is not positioned correctly; Clear property is ignored.
+#BD2B2D,379217,Layout: Floats,triangle,17,ASSERTION: aFrame is already associated with a region with float in button
+#B57582,252838,Layout: Floats,triangle,25,clear: right caculates potision according to floats in different block formatting context
+#E3EEC4,861014,Layout: Floats,diamond,50,clear: right caculates potision according to floats in different block formatting context

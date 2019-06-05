@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#2E6AF6,919361,Permission Manager,circle,26,Intermittent test_tcp-socket.html | Test timed out; | [SimpleTest.finish()] this test already called finish! (times four)
+#F35CC8,919363,Serializers,circle,23,Intermittent test_bug890580.html | Test timed out; | [SimpleTest.finish()] this test already called finish!; | called finish() multiple times (x4)
+#77EF65,927758,Networking: Cache,circle,25,Intermittent TEST-UNEXPECTED-FAIL | /tests/dom/tests/mochitest/ajax/offline/test_lowDeviceStorage.html | Test timed out. | followed by  [SimpleTest.finish()] this test already called finish!
+#2BA2FB,931644,Editor,circle,34,Intermittent test_bug519928.html | Test timed out.; | [SimpleTest.finish()] this test already called finish! (repeated until TestRunner.js kills it)
+#D6F9CD,936282,DOM: Core & HTML,circle,24,Intermittent test_sessionStorageBaseSessionOnly.html | Test timed out. | [SimpleTest.finish()] this test already called finish! | called finish() multiple times | four times; followed by application timed out after 330 seconds with no output
+#7B9A74,936296,XBL,circle,23,Intermittent test_bug403162.xhtml | Test timed out. | [SimpleTest.finish()] this test already called finish! | called finish() multiple times | four times
+#AF8A6A,936809,Security,circle,34,test_bug371375.html | Test timed out (4 times) followed by application crashed
+#A72D12,942517,WebRTC,circle,31,Intermittent test_getUserMedia_stopVideoAudioStream.html | Test timed out; [SimpleTest.finish()] this test already called finish!; called finish() multiple times (4x);
+#EDAB76,21823,Editor,triangle,19,Bugzilla scrolled text input field doesnt grab arrow keys
+#AB19A7,126464,Editor,triangle,23,spellcheck Change/Change All on mispelled links; loses link(s)
+#D16DA2,47622,Editor,triangle,20,Preview In Navigator is Preview In Navigator(B)
+#F5C885,52161,Editor,triangle,16,text fields; text areas and composer are *very* slow at entering keystrokes.
+#4EFEE5,137647,Editor,triangle,21,nsControllerCommandManager not completely moved
+#825B74,98230,Editor,triangle,22,Keyboard commands for outdent/indent non-functional
+#9119B9,728652,Editor,triangle,16,Crash @ nsPlaintextEditor::InsertFromDataTransfer
+#AE1784,10430,Editor,triangle,15,[DOGFOOD] Using the Tab key kills the caret and selection
+#CF5637,27713,Editor,triangle,17,test bug
+#5717A3,55286,Editor,triangle,16,Composer: links to named anchors with umlaute like       wont work
+#655263,24250,Editor,triangle,22,[REGRESSION] Edit Page is broken.
+#16C45F,14670,Editor,triangle,24,nsAutoSelectionReset object will not work with mutliple selection ranges
+#EC5B5B,170606,Editor,triangle,21,mail app stops responding when you backspace too far in a reply
+#4CDC24,942522,Editor,diamond,50,mail app stops responding when you backspace too far in a reply

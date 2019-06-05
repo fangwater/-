@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#8D7CAE,878611,JavaScript Engine,circle,27,Intermittent bug744356.js | --baseline-eager: e:\builds\moz2_slave\m-in-w32-000000000000000000000\build\js\src\jit-test\tests\basic\bug744356.js:13:3 ReferenceError: SECTION is not defined
+#378E2D,886171,JavaScript Engine,circle,35,Intermittent jit-test\tests\auto-regress\bug710192.js | --ion-eager: bug710192.js:10:0 Error: Assertion failed: got (void 0); expected 1234
+#EE11AF,887559,JavaScript Engine,circle,30,Intermittent auto-regress\bug665914.js | --ion-eager TypeError: anonymous method called on incompatible ArrayBufferPrototype
+#75DF37,899611,JavaScript Engine,circle,21,Intermittent TEST-UNEXPECTED-FAIL | jit-test\tests\jaeger\bug583158.js | --no-baseline --no-ion: jit-test\tests\jaeger\bug583158.js:6:0 ReferenceError: a is not defined
+#E9FC55,899697,JavaScript Engine,circle,20,Intermittent TEST-UNEXPECTED-FAIL | jit-test\tests\auto-regress\bug704136.js | --ion-eager: jit-test\tests\auto-regress\bug704136.js:8:0 ReferenceError: jsTestDriverEnd is not defined
+#FB6A9E,913335,JavaScript Engine,circle,33,Intermittent bug605013.js | --no-baseline --no-ion: e:\builds\moz2_slave\m-cen-w32-d-000000000000000000\build\js\src\jit-test\tests\auto-regress\bug605013.js:7:0 ReferenceError: AttributeName is not defined
+#149661,913859,JavaScript Engine,circle,33,Intermittent flatten-throws.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\m-cen-w32-d-000000000000000000\build\js\src\jit-test\tests\parallel\flatten-throws.js:6:0 Error: cannot flatten 1-dimensional ParallelArray object
+#E92881,913861,JavaScript Engine,circle,24,Intermittent bug650617.js | --baseline-eager --no-ti --no-fpu: e:\builds\moz2_slave\fx-team-w32-pgo-00000000000000\build\js\src\jit-test\tests\auto-regress\bug650617.js:6:0 ReferenceError: split is not defined
+#BE56EC,787343,JavaScript Engine,triangle,16,IonMonkey: LStackArgT
+#17E1BE,578884,JavaScript Engine,triangle,24,JM: Permit Generalization of Inline/OOL Paths
+#AA8F8B,56727,JavaScript Engine,triangle,22,CheckFinalReturn is not exception-savvy
+#CB6DD1,812596,JavaScript Engine,triangle,25,BaselineCompiler: Add GETELEM/SETELEM ICs
+#A6196E,445414,JavaScript Engine,triangle,22,Cleanup gcc 4.2 warnings
+#38DC3E,786106,JavaScript Engine,triangle,18,IonMonkey: Assertion failure: type == MIRType_Boolean || type == MIRType_Int32 || type == MIRType_Double || type == MIRType_String || type == MIRType_Object; at ion/MIR.h:1436
+#F5C4DC,847728,JavaScript Engine,triangle,20,Intermittent SM rootanalysis TEST-UNEXPECTED-FAIL | jit_test.py | tests/jaeger/bug738525.js; tests/basic/testPaths.js: Assertion failure: !js::IsPoisonedPtr(l); at js/HashTable.h:489
+#CC99DE,495056,JavaScript Engine,triangle,23,leak of argument bitmap with generators
+#ECFD72,495027,JavaScript Engine,triangle,21,TM: widen LIR instructions for 1.9.1?
+#569A83,735030,JavaScript Engine,triangle,15,IonMonkey: js_DumpBacktrace does not work with js opt shells
+#EEC6F6,585236,JavaScript Engine,triangle,20,JM: trace-test crash with gczeal(2) on check-date-format-xparb
+#FA4CE1,913845,JavaScript Engine,triangle,19,Filtering IonSpew with IONFILTER env var broken
+#C38589,520754,JavaScript Engine,triangle,18,Multiplying of two specific factors not very accurate
+#77BCA8,913862,JavaScript Engine,diamond,50,Multiplying of two specific factors not very accurate

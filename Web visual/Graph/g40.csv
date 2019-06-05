@@ -1,0 +1,26 @@
+color,id,label,shape,size,value
+#FA1CCE,87559,Layout,circle,28,Fail positioning test
+#A2DAF3,199444,Layout: R & A Pos,circle,29,TD with relative positioning not used as containing block for absolute positioned childs
+#267517,217002,Layout: R & A Pos,circle,23,relatively-positioned table row should be containing block for abs pos elts
+#AC2935,266715,Layout: R & A Pos,circle,30,Menus display incorrectly (position:absolute table inside position:relative table)
+#ABE449,268505,Layout: R & A Pos,circle,29,Absolute positioned element inside relative positioned container element is placed wrt. page origin; if the container element is a table; row or cell
+#13A9FA,273970,Layout: R & A Pos,circle,31,absolutly positioned div not recognizing a parent div as a containing block if parent has display:table set
+#F28548,288351,Layout: Tables,circle,34,HTML page not displayed correctly
+#7743C1,288794,Layout: View Rendering,circle,30,absolute positioned box in relative postioned box with set display: table
+#5D581E,315634,Layout: R & A Pos,circle,24,Seemingly plain-vanilla static HTML web page renders a horrible-looking mess on-screen
+#26A479,321363,Layout,circle,25,Absolute positioned div does not appear inside parent table element
+#854657,447878,Layout,circle,25,Tables cannot act as abs-pos containing blocks.
+#FBC43D,530867,Layout: R & A Pos,circle,20,Bug when style.position=absolute and setting style.left and/or style.top
+#F3AB67,546596,Layout,circle,20,Using table:hover to reveal an absolutely positioned child of <caption> doesnt work
+#597E31,558665,General,circle,27,TableRow is not positioned according to table when position is absolute on table and row
+#56C3CC,599720,Layout: R & A Pos,circle,22,Absolute positioning of child div in a table wrongly implemented
+#B89488,606517,Layout,circle,23,Absolute-positionned thead do not take into account its relative-positionned table
+#81BDE7,680963,General,circle,28,CSS Generated Content Incorrect Positioning in Table Cells
+#62597A,682046,Layout: R & A Pos,circle,26,<table> and Associated Elements are Not Seen As Valid Offset Parents
+#81263B,735065,Layout: Tables,circle,29,Table and table-cell pseudo-elements dont respect absolute positioning relative to their parent
+#239F6B,741133,Layout: Tables,circle,24,position: relative is ignored in a table-cell type block
+#6C8474,745416,Layout: R & A Pos,circle,30,Problem in rendering of an element that has dispaly:table-cell; and its position is relative; the absolute child of that element will be rendered as bodys relative element
+#8EF24F,745698,Layout,circle,20,Box model incorrectly rendered of absolute element with relative positioned parent
+#169E69,828581,CSS Parsing and Computation,circle,22,display: absolute within a display:table-cell with position:relative is not positioning properly
+#5AD65D,884954,Layout,circle,25,Input tags do not respect absolute positioning
+#A33168,894033,Layout,diamond,50,Input tags do not respect absolute positioning

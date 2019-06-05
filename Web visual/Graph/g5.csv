@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#31AE8F,868498,Widget: Cocoa,circle,22,Lion-style scrollbars do not change when System Preferences Show scroll bars setting changes until browser restart
+#3D9D52,432388,Widget: Cocoa,triangle,18,rewrite KeyTranslate API using
+#178BED,556853,Widget: Cocoa,triangle,19,Snow Leopard packaged unittests failing mochikit/content/chrome/widget/tests/test_native_mouse_mac.xul
+#AC1961,376816,Widget: Cocoa,triangle,15,Buttons are unnecessarily wide
+#1FA1DA,579250,Widget: Cocoa,triangle,20,Unified titlebar/toolbar sometimes paints incorrectly
+#6D3FFF,402926,Widget: Cocoa,triangle,23,Clicking on submenu item in bookmarks toolbar causes menu to go away
+#CE124C,533208,Widget: Cocoa,triangle,22,Hiding cursor with cursor:none gets stuck and doesnt recover immediately
+#1A6E42,426637,Widget: Cocoa,triangle,20,CocoaSuite incompatibility. Works intermittently with Beta 4 and Beta 5
+#7D6B34,518140,Widget: Cocoa,triangle,20,dont use ::GetCaretTime() in nsLookAndFeel.mm
+#51D216,681795,Widget: Cocoa,triangle,16,Crash [@ __CFStringCreateImmutableFunnel3 ] [@ CoreFoundation@0x2ac0 ] while moving bookmarks
+#256F47,414992,Widget: Cocoa,triangle,23,Aqua focus rings on radio buttons are clipped
+#3D8359,420750,Widget: Cocoa,triangle,25,implement insertNewline: correctly
+#FE4A9A,931374,Widget: Cocoa,triangle,23,Using Apple track pad gestures to forward and backwards breaks gestures completely.
+#7EE778,548796,Widget: Cocoa,triangle,21,nsIWifiMonitor causes deadlocks in OS X 10.6.x
+#161C21,356720,Widget: Cocoa,triangle,23,Event processing stops during certain UI interactions
+#C8732A,754800,Widget: Cocoa,triangle,20,Intermittent browser_aboutSyncProgress.js | leaked until shutdown [nsGlobalWindow #44 about:sync-progress]
+#3163BB,391989,Widget: Cocoa,triangle,15,[10.5] Ugly redraw/whiteness when dragging bookmark sidebar separator quickly
+#42AF34,358340,Widget: Cocoa,triangle,17,webloc file cannot be opened by drag and drop into open tab/window
+#D3B659,952958,Widget: Cocoa,triangle,19,OSX: dictionary definition shortcuts dont work
+#2FB587,634551,Widget: Cocoa,triangle,25,Cocoas progress bar widget shouldnt have a max size
+#9256F3,788189,Widget: Cocoa,triangle,15,[Mac] Context menu sometimes slides to the bottom right
+#AC355E,870797,Widget: Cocoa,diamond,50,[Mac] Context menu sometimes slides to the bottom right

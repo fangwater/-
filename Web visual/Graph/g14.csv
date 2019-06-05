@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#99DFF8,72321,CSS Parsing and Computation,circle,32,Paged media doesnt work
+#ED93BA,115199,Printing: Output,circle,34,@page in CSS2 not implemented
+#475FA8,131180,Printing: Output,circle,28,CSS2 paged media properties
+#FB2FFF,248573,CSS Parsing and Computation,circle,29,@page style not supported
+#93E8C6,314902,HTML: Parser,circle,25,Add support for @page
+#D5B229,68343,Printing: Output,triangle,19,OS/2 cant print on the current trunk (0.8)
+#5883A8,177313,Printing: Output,triangle,21,Header/Footer settings not saved
+#1D67A7,226953,Printing: Output,triangle,23,When I print (or print preview) a web page; the URL doest print in the header / footer even if its set to do so in the page setup... windows.
+#51675E,113727,Printing: Output,triangle,16,Page Setup
+#4C1DA7,113918,Printing: Output,triangle,17,[NT]this site had gap on left side and top area
+#91753B,253219,Printing: Output,triangle,25,[ps] Mozilla generate invalid font when enable true type printing
+#4D3346,102605,Printing: Output,triangle,21,Unable to print any web page
+#6BB7D8,103240,Printing: Output,triangle,22,Windows XP/2K; CJK language: Cant print Danish/French character with accent (ISO-8859-1)
+#487DBD,195375,Printing: Output,triangle,24,When print()ing from a frame with height 0; an unprintable job occupies the queue
+#3324CF,117072,Printing: Output,triangle,25,[REPRO]Screen and scrollbar gets messed up in print preview
+#6DB9EB,186174,Printing: Output,triangle,16,Printer continuously feeds blank pages
+#F2AB7E,275446,Printing: Output,triangle,17,firefox malforms printed pages when printing selection
+#B7C7B5,94014,Printing: Output,triangle,18,will not print image contained on page
+#7F6EDE,79028,Printing: Output,triangle,18,Mozilla prints blank pages
+#557734,223551,Printing: Output,triangle,23,Printing produces illegal postscript
+#DEFA34,38529,Printing: Output,triangle,23,program quits when printing a web page; also page didnt print
+#58BF55,715361,Printing: Output,diamond,50,program quits when printing a web page; also page didnt print

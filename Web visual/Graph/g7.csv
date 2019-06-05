@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#F73815,736965,Plug-ins,circle,29,Java applet would not run on certain site
+#2AFAEC,903965,Plug-ins,triangle,23,nsWebNavigationInfo loads plugins for docShells with allowPlugins=false
+#3DC566,140961,Plug-ins,triangle,24,repeatable crash with Flash Player
+#9C8C43,398446,Plug-ins,triangle,20,Cant log in to chase.com account
+#CCABA4,129617,Plug-ins,triangle,21,Print Preview breaks on this URL
+#15B949,119045,Plug-ins,triangle,19,OSX: Windows Media Plug-in fails on initialize
+#4D46A7,390385,Plug-ins,triangle,24,Plugins may get instantiated before first reflow
+#F17568,116734,Plug-ins,triangle,16,Plugger 3.2 causes about:plugins to fail.
+#6F8864,40657,Plug-ins,triangle,23,/tmp/plugin.data file created
+#4F5153,200135,Plug-ins,triangle,15,News applet on page is never overpainted when scrolling
+#55983F,656749,Plug-ins,triangle,23,If Opacity is set to zero SWF Objects will not respond to click handler events
+#4A83D7,632730,Plug-ins,triangle,19,Opening new tab with CMD-T when focus is on tab with flash player crashes flash plugin
+#9F3A4F,793978,Plug-ins,triangle,21,Randomly shuffle navigator.plugins array to avoid exposing user-identifying plugin file order
+#974B82,239957,Plug-ins,triangle,20,SOme flash movies do not play properly in Mozilla; Firefox; or Netscape 7.1
+#5A7326,829945,Plug-ins,triangle,18,Click to play whitelist should keep whitelist for the duration of the session
+#53FBA7,834698,Plug-ins,triangle,21,CTP doorhanger is still displayed after white/black listing a domain and multiple tabs are opened on that domain
+#E36653,530138,Plug-ins,triangle,16,npruntime sample plugin not using NPN_MemAlloc when it should
+#964A9D,197695,Plug-ins,triangle,22,Real Player 8 Plugin no longer recognized
+#15CA86,582953,Plug-ins,triangle,22,Cant type in a text field in Hulu to log in
+#6E8DB6,72635,Plug-ins,triangle,17,Shockwave ad hogs CPU
+#D5E894,102329,Plug-ins,triangle,22,NS600_PLUGIN_PATH doesnt take a list of directories
+#AE2F55,763298,Plug-ins,diamond,50,NS600_PLUGIN_PATH doesnt take a list of directories

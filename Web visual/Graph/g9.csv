@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#3D4C4F,686314,DOM: IndexedDB,circle,22,IndexedDB: Compress structured clones
+#895142,703660,DOM: IndexedDB,circle,32,IndexedDB: Compress structured clone data with Snappy
+#BFED2F,860183,DOM: IndexedDB,triangle,17,Sync IDB mochi-tests with IDB xpcshell-tests
+#5AA134,824027,DOM: IndexedDB,triangle,16,Intermittent indexedDB/test/test_file_quota.html | Got success; but did not expect it! | test_filehandle_quota.html | uncaught exception - TypeError: request is null at test_filehandle_quota.html:44
+#2E16E2,777191,DOM: IndexedDB,triangle,17,Fix warning about uninitialized variable in DefineIDBInterfaceConstants()
+#9D27D4,638058,DOM: IndexedDB,triangle,17,Crash [@ mozilla::dom::indexedDB::CheckPermissionsHelper::Run ] [@ mozilla::dom::indexedDB::CheckPermissionsHelper::Run() ]
+#61FE91,607729,DOM: IndexedDB,triangle,24,IndexedDB: Allow IndexedDB events to propagate; and error events to hit window.error
+#E555B5,625071,DOM: IndexedDB,triangle,18,IndexedDB: Implement deleteDatabase
+#FBB428,693001,DOM: IndexedDB,triangle,19,IndexedDB: objectStoreNames should not be updated on closed databases when another connection adds/removes object stores
+#674FEA,890405,DOM: IndexedDB,triangle,15,Remove nsIIDBVersionChangeEvent
+#88A8CF,755508,DOM: IndexedDB,triangle,22,NaN dates are not valid keys
+#4358B3,692668,DOM: IndexedDB,triangle,24,IndexedDB: make IDBDatabase.transaction call toString on any value that isnt an Array or DOMStringList
+#615DD9,769624,DOM: IndexedDB,triangle,25,Intermittent test_error_events_abort_transactions.html | request.transaction should still be set
+#D36B38,861287,DOM: IndexedDB,triangle,15,Integrate IndexedDB into the gecko profiler
+#521575,589334,DOM: IndexedDB,triangle,15,IndexedDB: Get rid of IDBObjectStore::Modify; rename IDBObjectStore::AddOrModify to Put
+#2D54E6,793514,DOM: IndexedDB,triangle,18,Intermittent failure in test_filehandle_store_snapshot.html from Assertion failure: _mOwningThread.GetThread() == PR_GetCurrentThread() (nsDOMFileCC not thread-safe) and (nsScriptCacheCleaner not thread-safe)
+#C8AE12,618196,DOM: IndexedDB,triangle,18,IndexedDB: Error events and exceptions thrown during success events should abort transactions
+#B5F3A8,711727,DOM: IndexedDB,triangle,19,Followup cleanup for files in IndexedDB
+#374587,887524,DOM: IndexedDB,triangle,22,Move IDBRequest to WebIDL
+#B31E59,726593,DOM: IndexedDB,triangle,15,Implement FileHandle
+#447565,693001,DOM: IndexedDB,triangle,19,IndexedDB: objectStoreNames should not be updated on closed databases when another connection adds/removes object stores
+#67C916,715019,DOM: IndexedDB,diamond,50,IndexedDB: objectStoreNames should not be updated on closed databases when another connection adds/removes object stores

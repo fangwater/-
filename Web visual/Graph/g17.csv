@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#1C511C,82910,Event Handling,circle,32,Modal dialog during drag causes hang
+#D66732,106464,Drag and Drop,circle,26,Cookie notification hangs browser while dragging bookmark.
+#95A8EC,138748,Networking: Cookies,circle,33,Browser Deadlocks if During Drag and Drop Action a dialog appears
+#1AC5F1,143554,Drag and Drop,circle,22,the Mozilla freeze if the broser show an alert when I drag a mail
+#739D36,507781,Event Handling,circle,35,JavaScript alert() or confirm() while dragging tab prevents any mouse control
+#D2DF3A,531828,General,circle,27,Prompt box causes problems when i attempt to drag a tab to another
+#9E15B2,302686,DOM: Events,triangle,25,label click event bubbles twice and input click event fails to bubble
+#8BD4B7,129725,DOM: Events,triangle,22,DOM API created form crashes the browser deterministically
+#4FF511,211398,DOM: Events,triangle,23,strange behaviour of mouse event handler (like MSIE setCapture)
+#B184CC,121207,DOM: Events,triangle,16,conversion of a mousedown/mouseup event to a drop event
+#6D5733,296514,DOM: Events,triangle,19,event handler and modal dialog allows XSS attacks
+#1327EB,153166,DOM: Events,triangle,25,onBlur=self.close() closes all mozilla windows
+#589944,428988,DOM: Events,triangle,23,Expose mouse event pressure
+#92E5B9,35378,DOM: Events,triangle,16,UIEvent::detail not implemented
+#51DDA9,851128,DOM: Events,triangle,18,Double-tap gestures are not recognized on OS X
+#38A1FD,585492,DOM: Events,triangle,19,Can not scroll Tree view of Libraly window by wheel scroll of Alps Film Ponting-device
+#2DF336,128705,DOM: Events,triangle,25,document.onmouseup not being fired when onmousedown originated in another frame
+#28A9DF,326904,DOM: Events,triangle,17,Remove NS_APP_EVENT_FLAG_HANDLED
+#2FDD84,389225,DOM: Events,triangle,25,Difference to mechanism of the key-in (IME) with JavaScript
+#E892B4,145692,DOM: Events,triangle,22,RC2 still misses mouse-out events
+#396D6F,569071,DOM: Events,triangle,19,Click propagation with contextmenu problem
+#8413F6,839744,DOM: Events,diamond,50,Click propagation with contextmenu problem

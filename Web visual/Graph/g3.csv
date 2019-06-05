@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#E13C3E,722167,Graphics,circle,20,Severe Graphics corruption
+#438597,722170,Graphics,circle,34,muddled screen while scrolling page with hardware acceleration enabled
+#1E6ADF,594055,Graphics,triangle,21,After Installation; Firefox GUI is black
+#3975E5,580962,Graphics,triangle,24,testcase from bug 580233 (unexpected values in GPOS table) crashes on Linux
+#3927D5,692270,Graphics,triangle,15,Malformed Graphite2 font leads to crash [@graphite2::Pass::readPass]
+#275A3C,738413,Graphics,triangle,23,[Azure] <div> backgrounds are sometimes corrupted or not updated
+#CAFAF9,515428,Graphics,triangle,25,Leak test fails after importing a new revision of Cairo
+#B3CB35,381333,Graphics,triangle,21,Improve font handling and text display in OS/2 Thebes builds
+#22952A,410544,Graphics,triangle,18,crash at startup on Win XP Pro 64bits (on amd64) [@ GetOrMakeFont]
+#CD411F,678222,Graphics,triangle,19,Fix c++0x initializer list error found by clang
+#5FC152,645643,Graphics,triangle,20,[D2D] copying one canvas multiple times into an other canvas
+#8D7C38,365715,Graphics,triangle,23,Text moves when selecting text with letter-spacing and UTF-8 characters
+#39C665,626198,Graphics,triangle,23,Firefox 4.0b9 crash in mozilla::layers::LayerManagerD3D10::Initialize [@ d3d10_1core.dll@0xa80a ] with S3 graphics cards
+#4558D1,595703,Graphics,triangle,15,Malformed font leads to crash in Apples ATSUI [@OTL::GCommon::ApplyLookupAt]
+#838993,423571,Graphics,triangle,24,U+FFFD replacement character is rendered as a hexbox instead of a question mark in a diamond
+#73EE94,485694,Graphics,triangle,20,Firefox image rendering is flawed
+#9773F8,921495,Graphics,triangle,16,AlphaBoxBlur reduces opacity due to bad rounding
+#29EAF2,368116,Graphics,triangle,17,Trunk fonts are occasionally rendered off by 1 pixel; making them appear bolded or italicized
+#C5A548,339006,Graphics,triangle,23,[@ 0x00000000 - libcairo.so.2 + 0x38dc1]
+#4359A4,734478,Graphics,triangle,22,Properly create DXGI 1.1 factory
+#8E2AD9,450989,Graphics,triangle,21,Native widgets fail to paint with Gdk-CRITICAL GDK_IS_DRAWABLE assertion when opacity < 1
+#5814C9,722177,Graphics,diamond,50,Native widgets fail to paint with Gdk-CRITICAL GDK_IS_DRAWABLE assertion when opacity < 1

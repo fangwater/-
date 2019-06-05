@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#1D5768,603488,Canvas: 2D,circle,27,Canvas drawImage() should use imgIContainer::Draw() instead of rasterizing to a temporary surface
+#F7C4CB,887901,Canvas: 2D,triangle,16,Limit number of GL contexts with SkiaGL
+#198798,506926,Canvas: 2D,triangle,23,reftests crash during test run in CompareCanvas
+#F4536C,802658,Canvas: 2D,triangle,24,strokeText and fillText bug with shadow and translate
+#5763CB,525673,Canvas: 2D,triangle,16,Not repainting properly on canvas animation
+#3AA6CE,692980,Canvas: 2D,triangle,18,crash gfxContext::NewPath
+#3B1BF8,503355,Canvas: 2D,triangle,20,drawWindow should have an option to draw with scrollbars and at the current viewport
+#D12789,632486,Canvas: 2D,triangle,18,Handle non-finite values for bezierCurveTo per spec
+#48BDFB,891226,Canvas: 2D,triangle,17,it s not working properly
+#245BCC,781948,Canvas: 2D,triangle,18,[B2G] test_canvas.html | should throw TypeError
+#366A87,373724,Canvas: 2D,triangle,20,Method nsHTMLCanvasFrame::GetContentForEvent is useless
+#D1FA5E,346421,Canvas: 2D,triangle,18,drawImage causes incorrect clipping/invalidation in CSS-resized canvas
+#E36CCB,572274,Canvas: 2D,triangle,23,Canvas memory usage in about:memory is incorrect
+#E396CE,517557,Canvas: 2D,triangle,19,Get rid of --enable-canvas
+#6FCC32,918589,Canvas: 2D,triangle,18,IE Test Drive: PirateMarrrk benchmark draws a solid red line instead of a dotted red line
+#25891A,859024,Canvas: 2D,triangle,25,Remove the MSVC exemption for FAIL_ON_WARNINGS in content/canvas/src
+#23981C,803658,Canvas: 2D,triangle,25,Canvas text rendering regression
+#B6C854,362425,Canvas: 2D,triangle,23,Function.Apply broken on canvas functions
+#EEC3AA,343193,Canvas: 2D,triangle,19,globalCompositeOperation source-over incorrect
+#D752F1,707303,Canvas: 2D,triangle,20,Text rendering glitch; string not displayed
+#59E145,380100,Canvas: 2D,triangle,22,Save() crashes canvas
+#CC6EEA,920776,Canvas: 2D,diamond,50,Save() crashes canvas

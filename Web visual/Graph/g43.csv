@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#95588C,154877,Event Handling,circle,30,select onchange keyboard
+#448E2F,161551,Layout: Form Controls,circle,31,SELECT: when size=1 (dropdown); onChange event not fired when changed via up/down keys
+#4A7665,166829,Event Handling,circle,33,Keyboard JS onchange event  in select boxes not fired?
+#948BC9,169867,Layout: Form Controls,circle,26,onchange in select isnt called when you scroll through the select list
+#7FEF8F,178288,Event Handling,circle,30,select tag doesnt always fire onchange events
+#155D5B,178727,DOM: Events,circle,21,select list onchange does not work as expected when manipulated with keyboard
+#B3FC75,189973,Event Handling,circle,24,Using arrow keys to change SELECT choice does not trigger onChange
+#F4CBD8,193994,DOM: Core & HTML,circle,29,select population behave differently if you click on an element or if you move through the elements with arrows
+#1A9E45,194403,DOM: Events,circle,28,onchange event-handler in <select> works if you use the mouse to change; not if you use the arrow keys
+#EFAF5C,199881,Keyboard: Navigation,circle,22,Javascript onChange event doesnt fire for the Select form control when changed using the keyboard
+#F5BDA4,231712,Event Handling,circle,30,select: onchange doesnt run if you change the value with the keybord but runs with the mouse
+#6F3319,261526,DOM: Events,circle,25,Onchange Event not fired on select box when changing options by keyboard
+#E8C1A3,268203,Layout: Form Controls,circle,34,changing a single select box by keyboard selection does not trigger the onChange event  ...
+#CFCB3D,274388,DOM: Events,circle,22,Combobox onchange event fired late when using keyboard
+#4D7C41,290590,Event Handling,circle,22,onchange event handler not fired by arrow keys
+#AA9D7D,380384,DOM: Events,circle,30,Key press in <select> doesnt fire onChange when changing <option>
+#E2F7C4,719320,DOM: Events,triangle,19,Implement DOM3 wheel event
+#DBA56E,195602,DOM: Events,triangle,24,DOM events leak mExplicitOriginalTarget
+#7DD18E,87808,DOM: Events,triangle,23,DHTML performance exponentially degrades with amount/type of repaint necessary (such as presence of background)
+#95CD8A,421747,DOM: Events,triangle,21,Find out who is allocating and freeing memory with every mouse move
+#CAC9E7,204781,DOM: Events,triangle,18,crash dragging bookmark groups to and from personal toolbar - Trunk M140B [@ nsEventStateManager::GenerateMouseEnterExit]
+#E5ACD2,807948,DOM: Events,diamond,50,crash dragging bookmark groups to and from personal toolbar - Trunk M140B [@ nsEventStateManager::GenerateMouseEnterExit]

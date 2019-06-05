@@ -1,0 +1,23 @@
+color,id,label,shape,size,value
+#F6AEE8,791101,Networking: Cache,circle,31,Intermittently hitting Problem loading page page
+#F6B1DC,792432,Networking,circle,33,File not found error on clicking the back button
+#CB3391,798168,Networking: Cache,circle,28,Seeing cache access failures when using bugzilla
+#8E3A98,800266,Networking: Cache,circle,27,files are not always loading from the cache
+#47ACCE,33631,Networking: Cache,triangle,17,processing a 304 answer from a http server without a cache entry results in a crash
+#647586,775466,Networking: Cache,triangle,21,Adaptively schedule offline-cache updates for pinned apps
+#6D98F2,116477,Networking: Cache,triangle,23,Mozilla or Ntscape 6 in every version erases the cahce information if it has crashed
+#417C7D,75679,Networking: Cache,triangle,19,nsIRequest:: new load flags for cache
+#94EFC3,47112,Networking: Cache,triangle,23,Assertion: Overflowed channel counter to doubleclick.net
+#4D9A2B,38884,Networking: Cache,triangle,19,Invalid alignment in nsDBAccessor::GetID
+#CCB9E1,752675,Networking: Cache,triangle,21,Fix misuses of LOAD_FROM_CACHE
+#38C7AF,55411,Networking: Cache,triangle,20,crash loading page
+#98C7C6,197498,Networking: Cache,triangle,18,[Mozilla 1.3] cache works incorrectly
+#68DB16,321661,Networking: Cache,triangle,16,Cache memory not releasing images
+#285C8D,11372,Networking: Cache,triangle,24,Crash after browsing for a while.
+#38E27F,223577,Networking: Cache,triangle,21,fold nkcache REQUIRES into necko
+#9EB716,92600,Networking: Cache,triangle,18,wrong javascript output when going back one page
+#DDE163,106099,Networking: Cache,triangle,23,Cache does not honor the user_pref browser.cache.directory
+#6E6B46,35110,Networking: Cache,triangle,16,RFE: cache unchanging images longer
+#9EFA1E,769211,Networking: Cache,triangle,21,Crash [ @nsHttpChannel::InstallOfflineCacheListener] on out-of-process twitter.com
+#FD467D,737615,Networking: Cache,triangle,25,Remove use of synchronous cache API from unit tests
+#5634BF,802729,Networking: Cache,diamond,50,Remove use of synchronous cache API from unit tests
