@@ -55,7 +55,7 @@ def draw(order):
             label_opts=opts.LabelOpts(is_show=False),
             linestyle_opts=opts.LineStyleOpts(curve=0.2),
         )
-        .set_global_opts(title_opts=opts.TitleOpts(title="相似推荐可视化""))
+        .set_global_opts(title_opts=opts.TitleOpts(title="Recommond System Vis"))
     )
     return c
 
